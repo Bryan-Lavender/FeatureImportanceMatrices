@@ -1,0 +1,68 @@
+{
+    "Feature": "Leg 1 Ground Contact Flag",
+    "Bucket": 0.5,
+    "Left_Child": {
+        "Feature": "Velocity X",
+        "Bucket": 0.54523298,
+        "Left_Child": {
+            "Feature": "Hull Angle",
+            "Bucket": 0.0612271825,
+            "Left_Child": {
+                "Value": [
+                    0.41258237,
+                    -1.2911669,
+                    1.247055,
+                    -0.110263586
+                ]
+            },
+            "Right_Child": {
+                "Feature": "Hull Angular Velocity",
+                "Bucket": -0.019860938499999998,
+                "Left_Child": {
+                    "Value": [
+                        1.6911259,
+                        -0.28065145,
+                        0.14932379,
+                        -1.3714743
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        2.612685,
+                        -0.015668050000000017,
+                        1.61520865,
+                        -0.403517442
+                    ]
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "Hull Angle",
+            "Bucket": 0.12541531,
+            "Left_Child": {
+                "Value": [
+                    0.9561431,
+                    1.2826113,
+                    0.3092668,
+                    -0.88205594
+                ]
+            },
+            "Right_Child": {
+                "Value": [
+                    0.99268985,
+                    0.85871476,
+                    -0.2669673,
+                    -0.9806558
+                ]
+            }
+        }
+    },
+    "Right_Child": {
+        "Value": [
+            -0.7592718275,
+            3.7698874499999997,
+            0.8988403900000002,
+            0.7531662225
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Feature": "angle_vel",
+    "Bucket": 0.0237928265,
+    "Left_Child": {
+        "Feature": "vel",
+        "Bucket": -0.38109923999999995,
+        "Left_Child": {
+            "Feature": "angle",
+            "Bucket": 0.002404942785,
+            "Left_Child": {
+                "Feature": "vel",
+                "Bucket": -0.51527588,
+                "Left_Child": {
+                    "Value": 0
+                },
+                "Right_Child": {
+                    "Value": 1
+                }
+            },
+            "Right_Child": {
+                "Value": 0
+            }
+        },
+        "Right_Child": {
+            "Value": 0
+        }
+    },
+    "Right_Child": {
+        "Value": 1
+    }
+}

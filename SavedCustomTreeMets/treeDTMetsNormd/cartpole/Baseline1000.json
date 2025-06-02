@@ -1,0 +1,66 @@
+{
+    "Feature": "angle_vel",
+    "Bucket": 0.054020918905735016,
+    "Left_Child": {
+        "Feature": "angle_vel",
+        "Bucket": -0.06319530308246613,
+        "Left_Child": {
+            "Value": 0
+        },
+        "Right_Child": {
+            "Feature": "angle",
+            "Bucket": -0.0034050685353577137,
+            "Left_Child": {
+                "Feature": "x",
+                "Bucket": 0.04406335949897766,
+                "Left_Child": {
+                    "Feature": "angle",
+                    "Bucket": -0.006624695844948292,
+                    "Left_Child": {
+                        "Value": 0
+                    },
+                    "Right_Child": {
+                        "Feature": "angle",
+                        "Bucket": -0.0056470236741006374,
+                        "Left_Child": {
+                            "Value": 1
+                        },
+                        "Right_Child": {
+                            "Value": 0
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Value": 1
+                }
+            },
+            "Right_Child": {
+                "Feature": "x",
+                "Bucket": -0.3900102376937866,
+                "Left_Child": {
+                    "Feature": "x",
+                    "Bucket": -0.9930706024169922,
+                    "Left_Child": {
+                        "Feature": "x",
+                        "Bucket": -1.0369865894317627,
+                        "Left_Child": {
+                            "Value": 1
+                        },
+                        "Right_Child": {
+                            "Value": 0
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": 1
+                    }
+                },
+                "Right_Child": {
+                    "Value": 0
+                }
+            }
+        }
+    },
+    "Right_Child": {
+        "Value": 1
+    }
+}

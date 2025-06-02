@@ -1,0 +1,38 @@
+surrogate:
+    classifier: True
+    criterion: "entropy" # possible: {“gini”, “entropy”, “log_loss”} for classifier, {“squared_error”, “friedman_mse”, “absolute_error”, “poisson”}
+    min_split: 2 #[2, +inf)
+    bucket_alg: "half_split"
+    use_FI: True
+    multi_tree: False
+    
+
+FI:
+    method: "FD"
+    grouping: "Max_all" # possible: {"Var_Weighted, Max_all, Max_avg"} if classifier {"class"}
+sampler:
+    sample_type: &sample_type "Policy" #possible: {"Policy", "Uniform", "Gaussian"}
+    #NEEDED GENERALLY
+    num_samples: 60
+
+    #NEEDED FOR UNIFORM
+    bounds: [[ -2.5, -2.5, -10., -10., -6.2831855, -10., -0., -0. ], [ 2.5, 2.5, 10., 10., 6.2831855, 10., 1., 1. ]]
+    
+    #NEEDED FOR GAUSSIAN
+    std: 1
+
+    #NEEDED FOR POLICY
+    use_dist: False
+  
+picture:
+    labels: ["x", "y", "vel x", "vel y", "angle", "angular vel", "left leg hit", "righ leg hit"]
+    class_names: ["no-op", "fire left", "fire main", "fire right"]
+
+  
+metric_hyperparameters:
+    tree_execution_samples: 5000
+    sample_sequence: [3,5,10,20,30,40,60,80,100,150,200,250,300,400,500,600,1200,2000]
+    citerions:  ["gini", "entropy", "log_loss"]
+
+exp_output:
+    output_path: !join ["MetricFiles/", "lunar_lander/", *sample_type]

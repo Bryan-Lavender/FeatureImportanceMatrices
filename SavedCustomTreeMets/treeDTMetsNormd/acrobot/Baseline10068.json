@@ -1,0 +1,38 @@
+{
+    "Feature": "ang_vel_joint2",
+    "Bucket": 0.48646026849746704,
+    "Left_Child": {
+        "Feature": "ang_vel_joint1",
+        "Bucket": -0.6147024035453796,
+        "Left_Child": {
+            "Feature": "sin_joint1",
+            "Bucket": 0.9845607876777649,
+            "Left_Child": {
+                "Value": 2
+            },
+            "Right_Child": {
+                "Value": 0
+            }
+        },
+        "Right_Child": {
+            "Value": 0
+        }
+    },
+    "Right_Child": {
+        "Feature": "ang_vel_joint1",
+        "Bucket": -0.03595671057701111,
+        "Left_Child": {
+            "Value": 2
+        },
+        "Right_Child": {
+            "Feature": "cos_joint1",
+            "Bucket": 0.8304946422576904,
+            "Left_Child": {
+                "Value": 2
+            },
+            "Right_Child": {
+                "Value": 0
+            }
+        }
+    }
+}

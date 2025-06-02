@@ -1,0 +1,129 @@
+{
+    "Feature": "vel y",
+    "Bucket": -0.211450215,
+    "Left_Child": {
+        "Feature": "y",
+        "Bucket": 1.2625158,
+        "Left_Child": {
+            "Feature": "angle",
+            "Bucket": -0.15525269,
+            "Left_Child": {
+                "Value": 1
+            },
+            "Right_Child": {
+                "Feature": "vel x",
+                "Bucket": 0.37769231000000003,
+                "Left_Child": {
+                    "Feature": "vel y",
+                    "Bucket": -0.283594625,
+                    "Left_Child": {
+                        "Feature": "angular vel",
+                        "Bucket": -0.08087792499999999,
+                        "Left_Child": {
+                            "Feature": "y",
+                            "Bucket": 0.568358065,
+                            "Left_Child": {
+                                "Value": 1
+                            },
+                            "Right_Child": {
+                                "Value": 2
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": 2
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "y",
+                        "Bucket": 0.166301295,
+                        "Left_Child": {
+                            "Value": 2
+                        },
+                        "Right_Child": {
+                            "Feature": "y",
+                            "Bucket": 0.17568538,
+                            "Left_Child": {
+                                "Value": 1
+                            },
+                            "Right_Child": {
+                                "Value": 3
+                            }
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "x",
+                    "Bucket": 0.21706685,
+                    "Left_Child": {
+                        "Value": 3
+                    },
+                    "Right_Child": {
+                        "Value": 1
+                    }
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "x",
+            "Bucket": 0.15544987,
+            "Left_Child": {
+                "Value": 0
+            },
+            "Right_Child": {
+                "Value": 3
+            }
+        }
+    },
+    "Right_Child": {
+        "Feature": "vel x",
+        "Bucket": 0.0870919485,
+        "Left_Child": {
+            "Feature": "y",
+            "Bucket": -0.000205537065,
+            "Left_Child": {
+                "Feature": "y",
+                "Bucket": -0.00657444235,
+                "Left_Child": {
+                    "Value": 1
+                },
+                "Right_Child": {
+                    "Feature": "righ leg hit",
+                    "Bucket": 0.5,
+                    "Left_Child": {
+                        "Value": 1
+                    },
+                    "Right_Child": {
+                        "Feature": "x",
+                        "Bucket": -0.08996935,
+                        "Left_Child": {
+                            "Value": 3
+                        },
+                        "Right_Child": {
+                            "Feature": "x",
+                            "Bucket": -0.08508448299999999,
+                            "Left_Child": {
+                                "Value": 1
+                            },
+                            "Right_Child": {
+                                "Value": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Right_Child": {
+                "Value": 1
+            }
+        },
+        "Right_Child": {
+            "Feature": "y",
+            "Bucket": 1.42858715,
+            "Left_Child": {
+                "Value": 0
+            },
+            "Right_Child": {
+                "Value": 1
+            }
+        }
+    }
+}

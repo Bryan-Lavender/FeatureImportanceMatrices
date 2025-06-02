@@ -1,0 +1,87 @@
+{
+    "Feature": "vel y",
+    "Bucket": -0.18960654735565186,
+    "Left_Child": {
+        "Feature": "y",
+        "Bucket": 1.2425270080566406,
+        "Left_Child": {
+            "Feature": "angular vel",
+            "Bucket": -0.0980500727891922,
+            "Left_Child": {
+                "Feature": "x",
+                "Bucket": 0.083993099629879,
+                "Left_Child": {
+                    "Value": 1
+                },
+                "Right_Child": {
+                    "Feature": "x",
+                    "Bucket": 0.09723301231861115,
+                    "Left_Child": {
+                        "Feature": "x",
+                        "Bucket": 0.09471087157726288,
+                        "Left_Child": {
+                            "Value": 2
+                        },
+                        "Right_Child": {
+                            "Value": 1
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": 2
+                    }
+                }
+            },
+            "Right_Child": {
+                "Feature": "angular vel",
+                "Bucket": 0.04248857498168945,
+                "Left_Child": {
+                    "Value": 2
+                },
+                "Right_Child": {
+                    "Value": 3
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "angle",
+            "Bucket": 0.34619849920272827,
+            "Left_Child": {
+                "Value": 3
+            },
+            "Right_Child": {
+                "Value": 0
+            }
+        }
+    },
+    "Right_Child": {
+        "Feature": "x",
+        "Bucket": -0.08378095924854279,
+        "Left_Child": {
+            "Value": 3
+        },
+        "Right_Child": {
+            "Feature": "angle",
+            "Bucket": 0.009092830121517181,
+            "Left_Child": {
+                "Value": 1
+            },
+            "Right_Child": {
+                "Feature": "x",
+                "Bucket": -0.006526756566017866,
+                "Left_Child": {
+                    "Value": 3
+                },
+                "Right_Child": {
+                    "Feature": "x",
+                    "Bucket": 0.018336867913603783,
+                    "Left_Child": {
+                        "Value": 1
+                    },
+                    "Right_Child": {
+                        "Value": 0
+                    }
+                }
+            }
+        }
+    }
+}

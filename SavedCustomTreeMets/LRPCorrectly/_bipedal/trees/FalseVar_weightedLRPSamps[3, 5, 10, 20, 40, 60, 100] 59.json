@@ -1,0 +1,116 @@
+{
+    "Feature": "Hip Joint 1 Speed",
+    "Bucket": 0.3466116985,
+    "Left_Child": {
+        "Feature": "Knee Joint 1 Speed",
+        "Bucket": 0.9416671000000001,
+        "Left_Child": {
+            "Feature": "Knee Joint 2 Speed",
+            "Bucket": -0.07159404999999996,
+            "Left_Child": {
+                "Value": [
+                    -0.17418072,
+                    2.6124778,
+                    1.4051312,
+                    0.13721669
+                ]
+            },
+            "Right_Child": {
+                "Feature": "Knee Joint 2 Speed",
+                "Bucket": 0.9284074,
+                "Left_Child": {
+                    "Value": [
+                        -1.4100168,
+                        3.8639526,
+                        0.63964534,
+                        0.2335192
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        -0.559374,
+                        2.87971,
+                        0.88813686,
+                        0.8812879
+                    ]
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "Hip Joint 2 Angle",
+            "Bucket": 1.1275876999999999,
+            "Left_Child": {
+                "Value": [
+                    0.945388,
+                    -1.3445742,
+                    1.1119671,
+                    -0.06497728
+                ]
+            },
+            "Right_Child": {
+                "Value": [
+                    0.7882476,
+                    -0.30405366,
+                    1.6737108,
+                    0.63809603
+                ]
+            }
+        }
+    },
+    "Right_Child": {
+        "Feature": "Hip Joint 1 Speed",
+        "Bucket": 0.999877245,
+        "Left_Child": {
+            "Feature": "Hip Joint 2 Angle",
+            "Bucket": 1.1203875499999998,
+            "Left_Child": {
+                "Value": [
+                    3.1235433,
+                    -0.4855935,
+                    1.9121337,
+                    -0.28171325
+                ]
+            },
+            "Right_Child": {
+                "Value": [
+                    2.4158924,
+                    -0.90710825,
+                    1.6063725,
+                    0.1775758
+                ]
+            }
+        },
+        "Right_Child": {
+            "Feature": "Hip Joint 1 Speed",
+            "Bucket": 0.99999967,
+            "Left_Child": {
+                "Value": [
+                    3.5717347,
+                    -0.94096094,
+                    -0.028483115,
+                    -2.7297757
+                ]
+            },
+            "Right_Child": {
+                "Feature": "Lidar Sensor 9",
+                "Bucket": 0.9036659,
+                "Left_Child": {
+                    "Value": [
+                        1.7831392,
+                        0.92310053,
+                        -0.18567674,
+                        -1.618455
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        1.0112243,
+                        -1.3566592,
+                        0.8460176,
+                        -0.38270938
+                    ]
+                }
+            }
+        }
+    }
+}

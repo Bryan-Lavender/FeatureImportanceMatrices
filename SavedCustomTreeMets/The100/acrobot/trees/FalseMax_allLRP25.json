@@ -1,0 +1,59 @@
+{
+    "Feature": "sin_joint1",
+    "Bucket": -0.7795793,
+    "Left_Child": {
+        "Feature": "ang_vel_joint1",
+        "Bucket": 2.0496203,
+        "Left_Child": {
+            "Value": 2
+        },
+        "Right_Child": {
+            "Value": 0
+        }
+    },
+    "Right_Child": {
+        "Feature": "sin_joint1",
+        "Bucket": -0.64298017,
+        "Left_Child": {
+            "Value": 2
+        },
+        "Right_Child": {
+            "Feature": "sin_joint1",
+            "Bucket": 0.092062525,
+            "Left_Child": {
+                "Feature": "ang_vel_joint1",
+                "Bucket": -1.5967790700000002,
+                "Left_Child": {
+                    "Value": 2
+                },
+                "Right_Child": {
+                    "Value": 0
+                }
+            },
+            "Right_Child": {
+                "Feature": "sin_joint1",
+                "Bucket": 0.0962963175,
+                "Left_Child": {
+                    "Feature": "cos_joint1",
+                    "Bucket": 0.99543187,
+                    "Left_Child": {
+                        "Value": 2
+                    },
+                    "Right_Child": {
+                        "Value": 0
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "cos_joint2",
+                    "Bucket": -0.7157954849999999,
+                    "Left_Child": {
+                        "Value": 2
+                    },
+                    "Right_Child": {
+                        "Value": 0
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Feature": "Hip Joint 1 Speed",
+    "Bucket": -0.39440200999999997,
+    "Left_Child": {
+        "Feature": "Hull Angle",
+        "Bucket": 0.072965182,
+        "Left_Child": {
+            "Feature": "Hull Angle",
+            "Bucket": 0.016882685,
+            "Left_Child": {
+                "Value": [
+                    -2.3626153,
+                    3.009679,
+                    1.1267014,
+                    0.927962
+                ]
+            },
+            "Right_Child": {
+                "Value": [
+                    -1.6032884,
+                    3.7456217,
+                    1.2980902,
+                    1.887864
+                ]
+            }
+        },
+        "Right_Child": {
+            "Value": [
+                -1.1098837,
+                4.6680055,
+                0.62353873,
+                -0.0049174987
+            ]
+        }
+    },
+    "Right_Child": {
+        "Feature": "Hull Angle",
+        "Bucket": 0.227875885,
+        "Left_Child": {
+            "Feature": "Hull Angular Velocity",
+            "Bucket": -0.0300504717,
+            "Left_Child": {
+                "Value": [
+                    3.6202874,
+                    -1.6394788,
+                    -0.016576178,
+                    -2.729961
+                ]
+            },
+            "Right_Child": {
+                "Feature": "Hip Joint 1 Speed",
+                "Bucket": 1.0000003999999998,
+                "Left_Child": {
+                    "Feature": "Hull Angular Velocity",
+                    "Bucket": 0.0218594958,
+                    "Left_Child": {
+                        "Value": [
+                            1.7336465,
+                            0.22641173,
+                            0.054429404,
+                            -0.8510185
+                        ]
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            2.244775433333333,
+                            -0.4583499166666667,
+                            1.4682074333333333,
+                            -0.15525144000000002
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Value": [
+                        1.3333783,
+                        0.09687781,
+                        2.8063338,
+                        2.0003433
+                    ]
+                }
+            }
+        },
+        "Right_Child": {
+            "Value": [
+                0.27548155,
+                4.0106897,
+                0.9745,
+                0.5481098
+            ]
+        }
+    }
+}

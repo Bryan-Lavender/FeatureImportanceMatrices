@@ -1,0 +1,78 @@
+
+env:
+    env_name: &env_name "CartPole-v1"
+    record: False
+    seed: &seed [69420]
+    min_expected_reward: 200
+
+model_training:
+    num_episodes_eval: 5
+    record_freq: 5
+    summary_freq: 1
+    use_baseline: &use_baseline True
+    normalize_advantage: True
+    device: "cuda" # cpu/gpu
+    compile: False
+    compile_mode: "default"
+
+hyper_params: 
+    max_ep_len: 200 # maximum episode length (Note: this value must be strictly less than or equal to our batch size)
+    num_batches: 100 # number of batches trained on
+    batch_size: 2000 # number of steps used to compute each policy update
+    learning_rate: 0.03
+    gamma: 0.9 # the discount factor
+    n_layers: 1
+    layer_size: 64
+
+output:
+    output_path: &output_path !join ["ModelWeights/", *env_name, "-{}-"]
+    actor_output: !join [*output_path, "/actor.weights.pt"]
+    critic_output: !join [*output_path, "/critic.weights.pt"]
+    log_path: !join [*output_path, "/log.txt"]
+    scores_output: !join [*output_path, "/scores.npy"]
+    plot_output: !join [*output_path, "/scores.png"]
+    record_path: !join [*output_path, "/VIDYA"]
+
+sampling:
+    point: [0.,0.,0.,0.]
+    sampler: &type "UniformPolicy"
+    STD: 1
+    sample_number: 100
+    variables: &variable "all"
+    input_size: 4
+    output_num: 2
+    bounds: [[-4.8,4.8],[-10,10],[-0.418,0.418],[-10,10]]
+    sim_file: "state_list.npy"
+
+
+surrigate_params:
+    model_type: &model "Lasso"
+    learning_rate: 0.1
+    regularizer: 0.001
+    num_epochs: 500
+    input_size: 4
+    distance_kernel: "L2"
+    sigma: 1
+    use_dist: False
+
+explanation_weights:
+    model_path: &surrigate_weights !join ["SurrigateWeightsVeryNoisy/", *type, "_", *variable, "_", *env_name]
+    outputs: ["left", "right"]
+    
+
+explanation_output:
+    save_path: &exp_output_path !join ["runs/", *type,"_", *env_name, "_",*variable]
+    state_dist: !join [ *exp_output_path,"/state_diffs"]
+    state_dist_vec: !join [ *exp_output_path,"/state_diffs_vec"]
+    policy_dist: !join [*exp_output_path, "/policy_diffs"]
+    policy_perc: !join [*exp_output_path, "/policy_percent"]
+    value_dist: !join [*exp_output_path, "/value_dist"]
+    value_perc: !join [*exp_output_path, "/value_percent"]
+
+    policy_video: !join [*exp_output_path, "/policy_video"]
+    exp_video: !join [*exp_output_path, "/exp_video"]
+
+
+    MAE_MSE_RMSE_Rsq: !join [*exp_output_path, "/MAE_MSE_RMSE_Rsq"]
+    time_saver: !join [*exp_output_path, "/time_taken"]
+    uniform_sample_perc: !join [*exp_output_path, "/uniform_sample_perc"]

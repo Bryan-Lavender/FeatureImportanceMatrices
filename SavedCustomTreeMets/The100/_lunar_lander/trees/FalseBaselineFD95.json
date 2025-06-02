@@ -1,0 +1,171 @@
+{
+    "Feature": "vel y",
+    "Bucket": -0.189344295,
+    "Left_Child": {
+        "Feature": "angular vel",
+        "Bucket": 0.055673679,
+        "Left_Child": {
+            "Feature": "angular vel",
+            "Bucket": -0.0056167972,
+            "Left_Child": {
+                "Feature": "angle",
+                "Bucket": 0.26772222,
+                "Left_Child": {
+                    "Feature": "vel x",
+                    "Bucket": -0.04515926625,
+                    "Left_Child": {
+                        "Feature": "vel x",
+                        "Bucket": -0.36915496,
+                        "Left_Child": {
+                            "Feature": "vel y",
+                            "Bucket": -0.25593157,
+                            "Left_Child": {
+                                "Feature": "angle",
+                                "Bucket": 0.22286008,
+                                "Left_Child": {
+                                    "Value": 2
+                                },
+                                "Right_Child": {
+                                    "Value": 3
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "x",
+                                "Bucket": 0.104191205,
+                                "Left_Child": {
+                                    "Value": 1
+                                },
+                                "Right_Child": {
+                                    "Value": 3
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "angular vel",
+                            "Bucket": -0.11597769000000001,
+                            "Left_Child": {
+                                "Value": 1
+                            },
+                            "Right_Child": {
+                                "Feature": "angle",
+                                "Bucket": -0.0386918595,
+                                "Left_Child": {
+                                    "Feature": "y",
+                                    "Bucket": 0.09020977999999999,
+                                    "Left_Child": {
+                                        "Value": 2
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "vel x",
+                                        "Bucket": -0.18400893499999998,
+                                        "Left_Child": {
+                                            "Value": 1
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "x",
+                                            "Bucket": -0.15182986,
+                                            "Left_Child": {
+                                                "Value": 1
+                                            },
+                                            "Right_Child": {
+                                                "Value": 2
+                                            }
+                                        }
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": 2
+                                }
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "x",
+                        "Bucket": 0.030238914,
+                        "Left_Child": {
+                            "Value": 1
+                        },
+                        "Right_Child": {
+                            "Value": 3
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Value": 2
+                }
+            },
+            "Right_Child": {
+                "Value": 2
+            }
+        },
+        "Right_Child": {
+            "Feature": "x",
+            "Bucket": 0.120593548,
+            "Left_Child": {
+                "Value": 3
+            },
+            "Right_Child": {
+                "Value": 0
+            }
+        }
+    },
+    "Right_Child": {
+        "Feature": "left leg hit",
+        "Bucket": 0.5,
+        "Left_Child": {
+            "Feature": "y",
+            "Bucket": 0.00187013515,
+            "Left_Child": {
+                "Feature": "vel x",
+                "Bucket": 0.1171510405,
+                "Left_Child": {
+                    "Value": 3
+                },
+                "Right_Child": {
+                    "Feature": "x",
+                    "Bucket": -0.0596218575,
+                    "Left_Child": {
+                        "Value": 3
+                    },
+                    "Right_Child": {
+                        "Value": 0
+                    }
+                }
+            },
+            "Right_Child": {
+                "Value": 1
+            }
+        },
+        "Right_Child": {
+            "Feature": "vel x",
+            "Bucket": -0.20399632499999998,
+            "Left_Child": {
+                "Feature": "x",
+                "Bucket": -0.15760193,
+                "Left_Child": {
+                    "Value": 3
+                },
+                "Right_Child": {
+                    "Value": 0
+                }
+            },
+            "Right_Child": {
+                "Feature": "x",
+                "Bucket": -0.22206831,
+                "Left_Child": {
+                    "Feature": "x",
+                    "Bucket": -0.24107374999999998,
+                    "Left_Child": {
+                        "Value": 1
+                    },
+                    "Right_Child": {
+                        "Value": 0
+                    }
+                },
+                "Right_Child": {
+                    "Value": 1
+                }
+            }
+        }
+    }
+}

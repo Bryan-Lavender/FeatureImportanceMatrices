@@ -1,0 +1,73 @@
+{
+    "Feature": "angle_vel",
+    "Bucket": 0.01960467765,
+    "Left_Child": {
+        "Feature": "angle_vel",
+        "Bucket": -0.04974935950000001,
+        "Left_Child": {
+            "Feature": "angle",
+            "Bucket": 0.01351874575,
+            "Left_Child": {
+                "Value": 0
+            },
+            "Right_Child": {
+                "Feature": "angle_vel",
+                "Bucket": -0.17834429000000002,
+                "Left_Child": {
+                    "Value": 0
+                },
+                "Right_Child": {
+                    "Feature": "vel",
+                    "Bucket": -0.25111655499999996,
+                    "Left_Child": {
+                        "Value": 0
+                    },
+                    "Right_Child": {
+                        "Value": 1
+                    }
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "angle",
+            "Bucket": -0.012721997700000001,
+            "Left_Child": {
+                "Feature": "angle_vel",
+                "Bucket": -0.0382069915,
+                "Left_Child": {
+                    "Feature": "angle_vel",
+                    "Bucket": -0.0440253635,
+                    "Left_Child": {
+                        "Value": 0
+                    },
+                    "Right_Child": {
+                        "Value": 1
+                    }
+                },
+                "Right_Child": {
+                    "Value": 0
+                }
+            },
+            "Right_Child": {
+                "Value": 1
+            }
+        }
+    },
+    "Right_Child": {
+        "Feature": "angle_vel",
+        "Bucket": 0.060256397,
+        "Left_Child": {
+            "Feature": "angle_vel",
+            "Bucket": 0.053668582,
+            "Left_Child": {
+                "Value": 1
+            },
+            "Right_Child": {
+                "Value": 0
+            }
+        },
+        "Right_Child": {
+            "Value": 1
+        }
+    }
+}

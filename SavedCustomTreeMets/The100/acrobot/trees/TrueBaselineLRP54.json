@@ -1,0 +1,2690 @@
+{
+    "l_tor": {
+        "Feature": "ang_vel_joint1",
+        "Bucket": -0.038467747499999996,
+        "Left_Child": {
+            "Feature": "cos_joint2",
+            "Bucket": 0.994199225,
+            "Left_Child": {
+                "Feature": "ang_vel_joint2",
+                "Bucket": -0.5704177500000001,
+                "Left_Child": {
+                    "Feature": "cos_joint1",
+                    "Bucket": 0.305527865,
+                    "Left_Child": {
+                        "Value": [
+                            0.029976785
+                        ]
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            1.6558822
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "sin_joint2",
+                    "Bucket": -0.38959677000000004,
+                    "Left_Child": {
+                        "Feature": "sin_joint1",
+                        "Bucket": 0.0739008595,
+                        "Left_Child": {
+                            "Feature": "cos_joint1",
+                            "Bucket": 0.99877947,
+                            "Left_Child": {
+                                "Feature": "cos_joint2",
+                                "Bucket": 0.89487775,
+                                "Left_Child": {
+                                    "Feature": "sin_joint1",
+                                    "Bucket": 0.0602710725,
+                                    "Left_Child": {
+                                        "Feature": "cos_joint1",
+                                        "Bucket": 0.86746475,
+                                        "Left_Child": {
+                                            "Value": [
+                                                -9.8751335
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                1.3705429
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            1.0464058
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        0.9442554
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    0.73137003
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "cos_joint1",
+                            "Bucket": 0.996920935,
+                            "Left_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.926056505,
+                                "Left_Child": {
+                                    "Feature": "cos_joint1",
+                                    "Bucket": 0.84640452,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -4.7236032
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            1.2714232
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        1.1961697
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    1.254513
+                                ]
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "cos_joint2",
+                        "Bucket": 0.9702991,
+                        "Left_Child": {
+                            "Feature": "cos_joint2",
+                            "Bucket": 0.9681012,
+                            "Left_Child": {
+                                "Feature": "sin_joint2",
+                                "Bucket": -0.387498625,
+                                "Left_Child": {
+                                    "Value": [
+                                        1.1796798
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "cos_joint2",
+                                    "Bucket": 0.96500075,
+                                    "Left_Child": {
+                                        "Feature": "cos_joint1",
+                                        "Bucket": 0.999973715,
+                                        "Left_Child": {
+                                            "Feature": "sin_joint2",
+                                            "Bucket": 0.9449346000000001,
+                                            "Left_Child": {
+                                                "Feature": "sin_joint1",
+                                                "Bucket": 0.13476505,
+                                                "Left_Child": {
+                                                    "Feature": "sin_joint1",
+                                                    "Bucket": 0.090696055,
+                                                    "Left_Child": {
+                                                        "Feature": "sin_joint1",
+                                                        "Bucket": 0.022063977,
+                                                        "Left_Child": {
+                                                            "Feature": "sin_joint1",
+                                                            "Bucket": -0.932724425,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    -5.6220217
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Feature": "sin_joint2",
+                                                                "Bucket": -0.32803075000000004,
+                                                                "Left_Child": {
+                                                                    "Value": [
+                                                                        1.4159399
+                                                                    ]
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Feature": "sin_joint2",
+                                                                    "Bucket": -0.30568129,
+                                                                    "Left_Child": {
+                                                                        "Value": [
+                                                                            1.202904
+                                                                        ]
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Feature": "cos_joint1",
+                                                                        "Bucket": 0.23730669,
+                                                                        "Left_Child": {
+                                                                            "Value": [
+                                                                                -10.412769
+                                                                            ]
+                                                                        },
+                                                                        "Right_Child": {
+                                                                            "Feature": "cos_joint1",
+                                                                            "Bucket": 0.928456415,
+                                                                            "Left_Child": {
+                                                                                "Value": [
+                                                                                    -4.5113907
+                                                                                ]
+                                                                            },
+                                                                            "Right_Child": {
+                                                                                "Value": [
+                                                                                    2.075344
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                1.1088338
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            1.7264012
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        1.7113098
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -3.4059095
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                1.6813642
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            1.5118517
+                                        ]
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    1.1115516
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "sin_joint2",
+                            "Bucket": -0.18694295,
+                            "Left_Child": {
+                                "Feature": "sin_joint1",
+                                "Bucket": 0.1078298335,
+                                "Left_Child": {
+                                    "Feature": "sin_joint1",
+                                    "Bucket": 0.027616152499999998,
+                                    "Left_Child": {
+                                        "Feature": "sin_joint1",
+                                        "Bucket": 0.008616128,
+                                        "Left_Child": {
+                                            "Feature": "cos_joint1",
+                                            "Bucket": 0.9875803000000001,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    -4.859232
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    2.0534449
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                1.3512963
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            1.3265896
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        1.2467841
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.9951364,
+                                "Left_Child": {
+                                    "Feature": "cos_joint1",
+                                    "Bucket": 0.9903137,
+                                    "Left_Child": {
+                                        "Feature": "sin_joint1",
+                                        "Bucket": 0.15111775500000002,
+                                        "Left_Child": {
+                                            "Feature": "cos_joint1",
+                                            "Bucket": 0.9532567,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    -7.938083
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    1.081622
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                0.8332955
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            0.7409064
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Feature": "cos_joint1",
+                                    "Bucket": 0.9987308749999999,
+                                    "Left_Child": {
+                                        "Value": [
+                                            0.2880717
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            1.7751051
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "Right_Child": {
+                "Feature": "cos_joint2",
+                "Bucket": 0.99825867,
+                "Left_Child": {
+                    "Feature": "sin_joint1",
+                    "Bucket": 0.083566079,
+                    "Left_Child": {
+                        "Feature": "cos_joint1",
+                        "Bucket": 0.99468505,
+                        "Left_Child": {
+                            "Value": [
+                                -2.430658
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                1.3908787
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            1.2317587
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "sin_joint1",
+                    "Bucket": 0.0734725125,
+                    "Left_Child": {
+                        "Feature": "cos_joint1",
+                        "Bucket": 0.9931322499999999,
+                        "Left_Child": {
+                            "Value": [
+                                -2.0384438
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                1.3828984
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            1.173954
+                        ]
+                    }
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "ang_vel_joint2",
+            "Bucket": 1.3397689000000002,
+            "Left_Child": {
+                "Feature": "sin_joint1",
+                "Bucket": 0.066679547,
+                "Left_Child": {
+                    "Feature": "cos_joint1",
+                    "Bucket": 0.999880015,
+                    "Left_Child": {
+                        "Feature": "cos_joint1",
+                        "Bucket": 0.9997305649999999,
+                        "Left_Child": {
+                            "Feature": "cos_joint2",
+                            "Bucket": -0.8978328,
+                            "Left_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": -0.392734267,
+                                "Left_Child": {
+                                    "Value": [
+                                        9.849707
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -1.1736099
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.99959112,
+                                "Left_Child": {
+                                    "Feature": "cos_joint1",
+                                    "Bucket": 0.9994574700000001,
+                                    "Left_Child": {
+                                        "Feature": "cos_joint1",
+                                        "Bucket": 0.999398,
+                                        "Left_Child": {
+                                            "Feature": "cos_joint1",
+                                            "Bucket": 0.999375685,
+                                            "Left_Child": {
+                                                "Feature": "cos_joint1",
+                                                "Bucket": 0.9993597350000001,
+                                                "Left_Child": {
+                                                    "Feature": "cos_joint1",
+                                                    "Bucket": 0.99924725,
+                                                    "Left_Child": {
+                                                        "Feature": "cos_joint2",
+                                                        "Bucket": 0.99800488,
+                                                        "Left_Child": {
+                                                            "Feature": "cos_joint1",
+                                                            "Bucket": 0.9991203,
+                                                            "Left_Child": {
+                                                                "Feature": "sin_joint2",
+                                                                "Bucket": -0.51033765,
+                                                                "Left_Child": {
+                                                                    "Value": [
+                                                                        1.2140943
+                                                                    ]
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Feature": "sin_joint2",
+                                                                    "Bucket": -0.49845277499999996,
+                                                                    "Left_Child": {
+                                                                        "Value": [
+                                                                            1.1430968
+                                                                        ]
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Feature": "sin_joint2",
+                                                                        "Bucket": -0.47031913000000003,
+                                                                        "Left_Child": {
+                                                                            "Value": [
+                                                                                1.0759978
+                                                                            ]
+                                                                        },
+                                                                        "Right_Child": {
+                                                                            "Feature": "cos_joint2",
+                                                                            "Bucket": 0.9937629299999999,
+                                                                            "Left_Child": {
+                                                                                "Feature": "cos_joint2",
+                                                                                "Bucket": 0.98606125,
+                                                                                "Left_Child": {
+                                                                                    "Feature": "sin_joint2",
+                                                                                    "Bucket": 0.938299225,
+                                                                                    "Left_Child": {
+                                                                                        "Feature": "cos_joint1",
+                                                                                        "Bucket": 0.99905535,
+                                                                                        "Left_Child": {
+                                                                                            "Feature": "sin_joint2",
+                                                                                            "Bucket": -0.384048935,
+                                                                                            "Left_Child": {
+                                                                                                "Value": [
+                                                                                                    2.4532337
+                                                                                                ]
+                                                                                            },
+                                                                                            "Right_Child": {
+                                                                                                "Feature": "sin_joint2",
+                                                                                                "Bucket": -0.37622769,
+                                                                                                "Left_Child": {
+                                                                                                    "Value": [
+                                                                                                        1.801143
+                                                                                                    ]
+                                                                                                },
+                                                                                                "Right_Child": {
+                                                                                                    "Feature": "cos_joint1",
+                                                                                                    "Bucket": -0.411002845,
+                                                                                                    "Left_Child": {
+                                                                                                        "Value": [
+                                                                                                            10.643105
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    "Right_Child": {
+                                                                                                        "Feature": "sin_joint2",
+                                                                                                        "Bucket": 0.6013429349999999,
+                                                                                                        "Left_Child": {
+                                                                                                            "Feature": "cos_joint1",
+                                                                                                            "Bucket": 0.9987363499999999,
+                                                                                                            "Left_Child": {
+                                                                                                                "Feature": "cos_joint1",
+                                                                                                                "Bucket": 0.9981337699999999,
+                                                                                                                "Left_Child": {
+                                                                                                                    "Feature": "cos_joint2",
+                                                                                                                    "Bucket": -0.8731556199999999,
+                                                                                                                    "Left_Child": {
+                                                                                                                        "Value": [
+                                                                                                                            10.9631405
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    "Right_Child": {
+                                                                                                                        "Feature": "cos_joint1",
+                                                                                                                        "Bucket": 0.652291655,
+                                                                                                                        "Left_Child": {
+                                                                                                                            "Value": [
+                                                                                                                                12.287631
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        "Right_Child": {
+                                                                                                                            "Value": [
+                                                                                                                                0.3268767
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                },
+                                                                                                                "Right_Child": {
+                                                                                                                    "Value": [
+                                                                                                                        2.261065
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            },
+                                                                                                            "Right_Child": {
+                                                                                                                "Value": [
+                                                                                                                    1.785303
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "Right_Child": {
+                                                                                                            "Feature": "cos_joint1",
+                                                                                                            "Bucket": 0.436411905,
+                                                                                                            "Left_Child": {
+                                                                                                                "Value": [
+                                                                                                                    15.76376
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            "Right_Child": {
+                                                                                                                "Value": [
+                                                                                                                    3.9675865
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        },
+                                                                                        "Right_Child": {
+                                                                                            "Value": [
+                                                                                                0.61509115
+                                                                                            ]
+                                                                                        }
+                                                                                    },
+                                                                                    "Right_Child": {
+                                                                                        "Value": [
+                                                                                            9.284717
+                                                                                        ]
+                                                                                    }
+                                                                                },
+                                                                                "Right_Child": {
+                                                                                    "Value": [
+                                                                                        2.1249385
+                                                                                    ]
+                                                                                }
+                                                                            },
+                                                                            "Right_Child": {
+                                                                                "Value": [
+                                                                                    0.72757566
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    1.2613641
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                1.523858
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            1.5904106
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        1.912695
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    2.046646
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                1.6782352
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            1.7634597
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        2.1265812
+                                    ]
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                2.4239109
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            2.4136593
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "sin_joint2",
+                    "Bucket": -0.150201135,
+                    "Left_Child": {
+                        "Feature": "cos_joint1",
+                        "Bucket": 0.997196525,
+                        "Left_Child": {
+                            "Feature": "cos_joint2",
+                            "Bucket": 0.9852336850000001,
+                            "Left_Child": {
+                                "Feature": "cos_joint2",
+                                "Bucket": 0.9845251,
+                                "Left_Child": {
+                                    "Feature": "cos_joint2",
+                                    "Bucket": 0.9828228,
+                                    "Left_Child": {
+                                        "Feature": "ang_vel_joint1",
+                                        "Bucket": -0.02160894025,
+                                        "Left_Child": {
+                                            "Value": [
+                                                1.8250506
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "ang_vel_joint1",
+                                            "Bucket": -0.003983209,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    2.313075
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "ang_vel_joint1",
+                                                "Bucket": 0.00437575075,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        1.8362571
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "cos_joint1",
+                                                    "Bucket": 0.996627925,
+                                                    "Left_Child": {
+                                                        "Feature": "cos_joint1",
+                                                        "Bucket": 0.99618575,
+                                                        "Left_Child": {
+                                                            "Feature": "cos_joint1",
+                                                            "Bucket": 0.996111275,
+                                                            "Left_Child": {
+                                                                "Feature": "cos_joint1",
+                                                                "Bucket": 0.9957851499999999,
+                                                                "Left_Child": {
+                                                                    "Feature": "ang_vel_joint1",
+                                                                    "Bucket": 0.0070776104999999995,
+                                                                    "Left_Child": {
+                                                                        "Value": [
+                                                                            1.2957882
+                                                                        ]
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Feature": "sin_joint2",
+                                                                        "Bucket": -0.401847815,
+                                                                        "Left_Child": {
+                                                                            "Feature": "cos_joint2",
+                                                                            "Bucket": 0.9032274250000001,
+                                                                            "Left_Child": {
+                                                                                "Feature": "cos_joint1",
+                                                                                "Bucket": -0.33453359,
+                                                                                "Left_Child": {
+                                                                                    "Value": [
+                                                                                        16.000738
+                                                                                    ]
+                                                                                },
+                                                                                "Right_Child": {
+                                                                                    "Feature": "cos_joint2",
+                                                                                    "Bucket": 0.8927876,
+                                                                                    "Left_Child": {
+                                                                                        "Feature": "cos_joint1",
+                                                                                        "Bucket": 0.5864459599999999,
+                                                                                        "Left_Child": {
+                                                                                            "Value": [
+                                                                                                23.626757
+                                                                                            ]
+                                                                                        },
+                                                                                        "Right_Child": {
+                                                                                            "Value": [
+                                                                                                0.95133096
+                                                                                            ]
+                                                                                        }
+                                                                                    },
+                                                                                    "Right_Child": {
+                                                                                        "Value": [
+                                                                                            5.369235
+                                                                                        ]
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            "Right_Child": {
+                                                                                "Value": [
+                                                                                    1.0596353
+                                                                                ]
+                                                                            }
+                                                                        },
+                                                                        "Right_Child": {
+                                                                            "Feature": "cos_joint1",
+                                                                            "Bucket": 0.99288115,
+                                                                            "Left_Child": {
+                                                                                "Feature": "cos_joint1",
+                                                                                "Bucket": 0.9888082199999999,
+                                                                                "Left_Child": {
+                                                                                    "Feature": "cos_joint1",
+                                                                                    "Bucket": 0.51580402,
+                                                                                    "Left_Child": {
+                                                                                        "Value": [
+                                                                                            17.115309
+                                                                                        ]
+                                                                                    },
+                                                                                    "Right_Child": {
+                                                                                        "Value": [
+                                                                                            0.96691734
+                                                                                        ]
+                                                                                    }
+                                                                                },
+                                                                                "Right_Child": {
+                                                                                    "Value": [
+                                                                                        1.8398157
+                                                                                    ]
+                                                                                }
+                                                                            },
+                                                                            "Right_Child": {
+                                                                                "Value": [
+                                                                                    1.40584
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        2.2851212
+                                                                    ]
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    1.9023405
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                1.9184996
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            1.7024013
+                                                        ]
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            2.0211682
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        2.085744
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    2.180449
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                2.6220927
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "sin_joint2",
+                        "Bucket": -0.128871055,
+                        "Left_Child": {
+                            "Value": [
+                                2.286972
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "sin_joint2",
+                            "Bucket": -0.107514795,
+                            "Left_Child": {
+                                "Value": [
+                                    2.4193797
+                                ]
+                            },
+                            "Right_Child": {
+                                "Feature": "sin_joint2",
+                                "Bucket": -0.0671332465,
+                                "Left_Child": {
+                                    "Value": [
+                                        2.102383
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "cos_joint1",
+                                    "Bucket": 0.997203775,
+                                    "Left_Child": {
+                                        "Feature": "cos_joint1",
+                                        "Bucket": 0.7839145750000001,
+                                        "Left_Child": {
+                                            "Value": [
+                                                15.343187
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                1.9394757
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            1.9881748
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "Right_Child": {
+                "Feature": "cos_joint1",
+                "Bucket": 0.19581515,
+                "Left_Child": {
+                    "Value": [
+                        2.5463703
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        -5.66009
+                    ]
+                }
+            }
+        }
+    },
+    "no_tor": {
+        "Feature": "sin_joint2",
+        "Bucket": -0.329871435,
+        "Left_Child": {
+            "Feature": "sin_joint1",
+            "Bucket": 0.0509426125,
+            "Left_Child": {
+                "Feature": "ang_vel_joint1",
+                "Bucket": 0.023450267499999997,
+                "Left_Child": {
+                    "Feature": "ang_vel_joint2",
+                    "Bucket": -0.060886225,
+                    "Left_Child": {
+                        "Value": [
+                            -0.48090565
+                        ]
+                    },
+                    "Right_Child": {
+                        "Feature": "sin_joint1",
+                        "Bucket": 0.049383232,
+                        "Left_Child": {
+                            "Feature": "cos_joint1",
+                            "Bucket": 0.9994164000000001,
+                            "Left_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.99896382,
+                                "Left_Child": {
+                                    "Feature": "cos_joint1",
+                                    "Bucket": 0.86750982,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -8.144507
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -0.41804433
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -0.42128485
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.45524615
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.47928646
+                            ]
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "cos_joint1",
+                    "Bucket": 0.999375685,
+                    "Left_Child": {
+                        "Feature": "cos_joint1",
+                        "Bucket": 0.999185035,
+                        "Left_Child": {
+                            "Feature": "ang_vel_joint1",
+                            "Bucket": 0.0926356475,
+                            "Left_Child": {
+                                "Value": [
+                                    -0.5573436
+                                ]
+                            },
+                            "Right_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.8492245,
+                                "Left_Child": {
+                                    "Value": [
+                                        -4.632234
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -0.55332625
+                                    ]
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.58939976
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            -0.62496746
+                        ]
+                    }
+                }
+            },
+            "Right_Child": {
+                "Feature": "sin_joint2",
+                "Bucket": -0.45043875,
+                "Left_Child": {
+                    "Feature": "ang_vel_joint1",
+                    "Bucket": -0.12963245,
+                    "Left_Child": {
+                        "Feature": "cos_joint1",
+                        "Bucket": 0.464830395,
+                        "Left_Child": {
+                            "Value": [
+                                -0.78288627
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "cos_joint1",
+                            "Bucket": 0.926056505,
+                            "Left_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.84640452,
+                                "Left_Child": {
+                                    "Value": [
+                                        -3.8623085
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -0.45301563
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.45870894
+                                ]
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "ang_vel_joint2",
+                        "Bucket": 0.8992239000000001,
+                        "Left_Child": {
+                            "Feature": "sin_joint2",
+                            "Bucket": -0.9273313249999999,
+                            "Left_Child": {
+                                "Value": [
+                                    -0.5169874
+                                ]
+                            },
+                            "Right_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.998221435,
+                                "Left_Child": {
+                                    "Feature": "cos_joint1",
+                                    "Bucket": 0.9979720350000001,
+                                    "Left_Child": {
+                                        "Feature": "cos_joint1",
+                                        "Bucket": 0.997681135,
+                                        "Left_Child": {
+                                            "Feature": "cos_joint1",
+                                            "Bucket": 0.997270735,
+                                            "Left_Child": {
+                                                "Feature": "cos_joint1",
+                                                "Bucket": -0.33453359,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        -4.368548
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "cos_joint1",
+                                                    "Bucket": 0.9962435999999999,
+                                                    "Left_Child": {
+                                                        "Feature": "cos_joint1",
+                                                        "Bucket": 0.5864459599999999,
+                                                        "Left_Child": {
+                                                            "Value": [
+                                                                -6.434273
+                                                            ]
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                -0.43664873
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            -0.53374654
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -0.4429571
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.45355147
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -0.46040753
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -0.46770886
+                                    ]
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.90452135
+                            ]
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "sin_joint2",
+                    "Bucket": -0.4150723,
+                    "Left_Child": {
+                        "Feature": "cos_joint2",
+                        "Bucket": 0.903973525,
+                        "Left_Child": {
+                            "Feature": "cos_joint1",
+                            "Bucket": 0.94937575,
+                            "Left_Child": {
+                                "Value": [
+                                    -1.5263946
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.46540728
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.566189
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "cos_joint2",
+                        "Bucket": 0.924904435,
+                        "Left_Child": {
+                            "Feature": "cos_joint2",
+                            "Bucket": 0.921392365,
+                            "Left_Child": {
+                                "Feature": "sin_joint2",
+                                "Bucket": -0.401963715,
+                                "Left_Child": {
+                                    "Value": [
+                                        -0.44868663
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "sin_joint2",
+                                    "Bucket": -0.39139333,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -0.73576593
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "cos_joint1",
+                                        "Bucket": 0.52232872,
+                                        "Left_Child": {
+                                            "Value": [
+                                                -4.6836863
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.4287059
+                                            ]
+                                        }
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.5347835
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.48653254
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "ang_vel_joint2",
+            "Bucket": -0.122671207,
+            "Left_Child": {
+                "Feature": "sin_joint1",
+                "Bucket": 0.131947835,
+                "Left_Child": {
+                    "Feature": "sin_joint1",
+                    "Bucket": 0.12306353,
+                    "Left_Child": {
+                        "Feature": "ang_vel_joint2",
+                        "Bucket": -0.14924871499999998,
+                        "Left_Child": {
+                            "Feature": "cos_joint2",
+                            "Bucket": 0.9998175,
+                            "Left_Child": {
+                                "Feature": "cos_joint2",
+                                "Bucket": 0.9995282999999999,
+                                "Left_Child": {
+                                    "Feature": "cos_joint2",
+                                    "Bucket": 0.996889225,
+                                    "Left_Child": {
+                                        "Feature": "cos_joint2",
+                                        "Bucket": 0.993091625,
+                                        "Left_Child": {
+                                            "Feature": "cos_joint2",
+                                            "Bucket": 0.99158305,
+                                            "Left_Child": {
+                                                "Feature": "cos_joint2",
+                                                "Bucket": 0.99083527,
+                                                "Left_Child": {
+                                                    "Feature": "sin_joint1",
+                                                    "Bucket": 0.11057109749999999,
+                                                    "Left_Child": {
+                                                        "Feature": "sin_joint2",
+                                                        "Bucket": -0.282651695,
+                                                        "Left_Child": {
+                                                            "Value": [
+                                                                -0.6302367
+                                                            ]
+                                                        },
+                                                        "Right_Child": {
+                                                            "Feature": "sin_joint1",
+                                                            "Bucket": 0.0935388805,
+                                                            "Left_Child": {
+                                                                "Feature": "sin_joint1",
+                                                                "Bucket": 0.0803062805,
+                                                                "Left_Child": {
+                                                                    "Feature": "sin_joint2",
+                                                                    "Bucket": 0.938299225,
+                                                                    "Left_Child": {
+                                                                        "Feature": "sin_joint1",
+                                                                        "Bucket": 0.0638546425,
+                                                                        "Left_Child": {
+                                                                            "Feature": "cos_joint1",
+                                                                            "Bucket": -0.77952895,
+                                                                            "Left_Child": {
+                                                                                "Value": [
+                                                                                    -2.7220523
+                                                                                ]
+                                                                            },
+                                                                            "Right_Child": {
+                                                                                "Feature": "sin_joint1",
+                                                                                "Bucket": 0.04723189,
+                                                                                "Left_Child": {
+                                                                                    "Feature": "cos_joint1",
+                                                                                    "Bucket": -0.411002845,
+                                                                                    "Left_Child": {
+                                                                                        "Value": [
+                                                                                            -2.9326346
+                                                                                        ]
+                                                                                    },
+                                                                                    "Right_Child": {
+                                                                                        "Feature": "sin_joint2",
+                                                                                        "Bucket": 0.6013429349999999,
+                                                                                        "Left_Child": {
+                                                                                            "Feature": "cos_joint2",
+                                                                                            "Bucket": 0.98167524,
+                                                                                            "Left_Child": {
+                                                                                                "Feature": "cos_joint2",
+                                                                                                "Bucket": 0.9703291700000001,
+                                                                                                "Left_Child": {
+                                                                                                    "Feature": "cos_joint2",
+                                                                                                    "Bucket": -0.8731556199999999,
+                                                                                                    "Left_Child": {
+                                                                                                        "Value": [
+                                                                                                            -3.0425508
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    "Right_Child": {
+                                                                                                        "Feature": "cos_joint1",
+                                                                                                        "Bucket": 0.9996092,
+                                                                                                        "Left_Child": {
+                                                                                                            "Feature": "cos_joint1",
+                                                                                                            "Bucket": 0.653008485,
+                                                                                                            "Left_Child": {
+                                                                                                                "Value": [
+                                                                                                                    -3.3938527
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            "Right_Child": {
+                                                                                                                "Value": [
+                                                                                                                    -0.49167073
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "Right_Child": {
+                                                                                                            "Value": [
+                                                                                                                -0.5227816
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    }
+                                                                                                },
+                                                                                                "Right_Child": {
+                                                                                                    "Value": [
+                                                                                                        -0.6236278
+                                                                                                    ]
+                                                                                                }
+                                                                                            },
+                                                                                            "Right_Child": {
+                                                                                                "Value": [
+                                                                                                    -0.5475066
+                                                                                                ]
+                                                                                            }
+                                                                                        },
+                                                                                        "Right_Child": {
+                                                                                            "Feature": "cos_joint1",
+                                                                                            "Bucket": 0.436411905,
+                                                                                            "Left_Child": {
+                                                                                                "Value": [
+                                                                                                    -4.3110957
+                                                                                                ]
+                                                                                            },
+                                                                                            "Right_Child": {
+                                                                                                "Value": [
+                                                                                                    -1.1470197
+                                                                                                ]
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                },
+                                                                                "Right_Child": {
+                                                                                    "Value": [
+                                                                                        -0.6815793
+                                                                                    ]
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        "Right_Child": {
+                                                                            "Value": [
+                                                                                -0.78195196
+                                                                            ]
+                                                                        }
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Value": [
+                                                                            -2.5827622
+                                                                        ]
+                                                                    }
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        -0.6884664
+                                                                    ]
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    -0.615083
+                                                                ]
+                                                            }
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            -0.5612846
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -0.64302826
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -0.72341835
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.643348
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -0.72580945
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -0.7229374
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.5905895
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.6330217
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            -0.695458
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "cos_joint1",
+                    "Bucket": 0.9900994,
+                    "Left_Child": {
+                        "Feature": "cos_joint2",
+                        "Bucket": 0.988447285,
+                        "Left_Child": {
+                            "Feature": "cos_joint2",
+                            "Bucket": 0.97084141,
+                            "Left_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.78061615,
+                                "Left_Child": {
+                                    "Value": [
+                                        -4.209948
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -0.5300208
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.6586018
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.68739974
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            -0.63625497
+                        ]
+                    }
+                }
+            },
+            "Right_Child": {
+                "Feature": "cos_joint2",
+                "Bucket": 0.99727287,
+                "Left_Child": {
+                    "Feature": "sin_joint1",
+                    "Bucket": -0.9697141,
+                    "Left_Child": {
+                        "Value": [
+                            -0.9329643
+                        ]
+                    },
+                    "Right_Child": {
+                        "Feature": "ang_vel_joint1",
+                        "Bucket": 0.263037445,
+                        "Left_Child": {
+                            "Feature": "ang_vel_joint1",
+                            "Bucket": 0.258801625,
+                            "Left_Child": {
+                                "Feature": "sin_joint2",
+                                "Bucket": -0.322780745,
+                                "Left_Child": {
+                                    "Value": [
+                                        -0.5473863
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "ang_vel_joint1",
+                                    "Bucket": 0.16355687,
+                                    "Left_Child": {
+                                        "Feature": "ang_vel_joint1",
+                                        "Bucket": 0.055033619,
+                                        "Left_Child": {
+                                            "Feature": "cos_joint2",
+                                            "Bucket": 0.99657898,
+                                            "Left_Child": {
+                                                "Feature": "cos_joint1",
+                                                "Bucket": 0.999617545,
+                                                "Left_Child": {
+                                                    "Feature": "cos_joint1",
+                                                    "Bucket": 0.99944723,
+                                                    "Left_Child": {
+                                                        "Feature": "cos_joint1",
+                                                        "Bucket": 0.99922725,
+                                                        "Left_Child": {
+                                                            "Feature": "cos_joint1",
+                                                            "Bucket": 0.99887985,
+                                                            "Left_Child": {
+                                                                "Feature": "ang_vel_joint2",
+                                                                "Bucket": 0.018849802,
+                                                                "Left_Child": {
+                                                                    "Value": [
+                                                                        -0.45086405
+                                                                    ]
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Feature": "sin_joint2",
+                                                                    "Bucket": 0.9449346000000001,
+                                                                    "Left_Child": {
+                                                                        "Feature": "sin_joint1",
+                                                                        "Bucket": 0.177787655,
+                                                                        "Left_Child": {
+                                                                            "Feature": "cos_joint1",
+                                                                            "Bucket": 0.9984062499999999,
+                                                                            "Left_Child": {
+                                                                                "Feature": "sin_joint2",
+                                                                                "Bucket": -0.19220624,
+                                                                                "Left_Child": {
+                                                                                    "Feature": "sin_joint1",
+                                                                                    "Bucket": 0.117730185,
+                                                                                    "Left_Child": {
+                                                                                        "Feature": "cos_joint1",
+                                                                                        "Bucket": 0.99670619,
+                                                                                        "Left_Child": {
+                                                                                            "Feature": "cos_joint1",
+                                                                                            "Bucket": 0.9854052200000001,
+                                                                                            "Left_Child": {
+                                                                                                "Value": [
+                                                                                                    -3.9772885
+                                                                                                ]
+                                                                                            },
+                                                                                            "Right_Child": {
+                                                                                                "Value": [
+                                                                                                    -0.44041106
+                                                                                                ]
+                                                                                            }
+                                                                                        },
+                                                                                        "Right_Child": {
+                                                                                            "Value": [
+                                                                                                -0.44862622
+                                                                                            ]
+                                                                                        }
+                                                                                    },
+                                                                                    "Right_Child": {
+                                                                                        "Value": [
+                                                                                            -0.46285766
+                                                                                        ]
+                                                                                    }
+                                                                                },
+                                                                                "Right_Child": {
+                                                                                    "Feature": "cos_joint1",
+                                                                                    "Bucket": 0.99805005,
+                                                                                    "Left_Child": {
+                                                                                        "Feature": "sin_joint1",
+                                                                                        "Bucket": -0.932724425,
+                                                                                        "Left_Child": {
+                                                                                            "Value": [
+                                                                                                -4.605356
+                                                                                            ]
+                                                                                        },
+                                                                                        "Right_Child": {
+                                                                                            "Feature": "ang_vel_joint2",
+                                                                                            "Bucket": 0.18042865000000002,
+                                                                                            "Left_Child": {
+                                                                                                "Value": [
+                                                                                                    -0.43544978
+                                                                                                ]
+                                                                                            },
+                                                                                            "Right_Child": {
+                                                                                                "Feature": "sin_joint1",
+                                                                                                "Bucket": 0.16014596,
+                                                                                                "Left_Child": {
+                                                                                                    "Feature": "cos_joint1",
+                                                                                                    "Bucket": 0.99499615,
+                                                                                                    "Left_Child": {
+                                                                                                        "Feature": "cos_joint1",
+                                                                                                        "Bucket": 0.8874580999999999,
+                                                                                                        "Left_Child": {
+                                                                                                            "Feature": "cos_joint1",
+                                                                                                            "Bucket": 0.23730669,
+                                                                                                            "Left_Child": {
+                                                                                                                "Value": [
+                                                                                                                    -8.595027
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            "Right_Child": {
+                                                                                                                "Value": [
+                                                                                                                    -3.6873689
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "Right_Child": {
+                                                                                                            "Feature": "sin_joint1",
+                                                                                                            "Bucket": 0.13844821000000002,
+                                                                                                            "Left_Child": {
+                                                                                                                "Feature": "cos_joint1",
+                                                                                                                "Bucket": 0.9550255,
+                                                                                                                "Left_Child": {
+                                                                                                                    "Value": [
+                                                                                                                        -6.5341606
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                "Right_Child": {
+                                                                                                                    "Value": [
+                                                                                                                        -0.406819
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            },
+                                                                                                            "Right_Child": {
+                                                                                                                "Value": [
+                                                                                                                    -0.41100025
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        }
+                                                                                                    },
+                                                                                                    "Right_Child": {
+                                                                                                        "Value": [
+                                                                                                            -0.41178158
+                                                                                                        ]
+                                                                                                    }
+                                                                                                },
+                                                                                                "Right_Child": {
+                                                                                                    "Value": [
+                                                                                                        -0.4279952
+                                                                                                    ]
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "Right_Child": {
+                                                                                        "Value": [
+                                                                                            -0.45290077
+                                                                                        ]
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            "Right_Child": {
+                                                                                "Value": [
+                                                                                    -0.44252232
+                                                                                ]
+                                                                            }
+                                                                        },
+                                                                        "Right_Child": {
+                                                                            "Value": [
+                                                                                -0.45068708
+                                                                            ]
+                                                                        }
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Value": [
+                                                                            -2.7555053
+                                                                        ]
+                                                                    }
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    -0.46588576
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                -0.45649242
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            -0.46610114
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -0.46826515
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -0.47333434
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.5085031
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -0.5647393
+                                        ]
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.5869085
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.58361274
+                            ]
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "sin_joint2",
+                    "Bucket": -0.0361336765,
+                    "Left_Child": {
+                        "Value": [
+                            -0.60493916
+                        ]
+                    },
+                    "Right_Child": {
+                        "Feature": "cos_joint1",
+                        "Bucket": 0.9990429000000001,
+                        "Left_Child": {
+                            "Feature": "cos_joint1",
+                            "Bucket": 0.9986184499999999,
+                            "Left_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.9892176500000001,
+                                "Left_Child": {
+                                    "Value": [
+                                        -1.623138
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "cos_joint1",
+                                    "Bucket": 0.997099715,
+                                    "Left_Child": {
+                                        "Feature": "cos_joint1",
+                                        "Bucket": 0.993185115,
+                                        "Left_Child": {
+                                            "Value": [
+                                                -1.9499345
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.44593036
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -0.4722966
+                                        ]
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.49269137
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.52481085
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "r_tor": {
+        "Feature": "ang_vel_joint2",
+        "Bucket": -0.024128858000000003,
+        "Left_Child": {
+            "Feature": "sin_joint1",
+            "Bucket": 0.0583732315,
+            "Left_Child": {
+                "Feature": "cos_joint2",
+                "Bucket": 0.9995282999999999,
+                "Left_Child": {
+                    "Feature": "cos_joint2",
+                    "Bucket": 0.9981967,
+                    "Left_Child": {
+                        "Feature": "sin_joint1",
+                        "Bucket": 0.055785554,
+                        "Left_Child": {
+                            "Feature": "sin_joint1",
+                            "Bucket": 0.053749626999999994,
+                            "Left_Child": {
+                                "Feature": "sin_joint2",
+                                "Bucket": -0.503119885,
+                                "Left_Child": {
+                                    "Value": [
+                                        -1.6008621
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "cos_joint1",
+                                    "Bucket": 0.999973715,
+                                    "Left_Child": {
+                                        "Feature": "cos_joint1",
+                                        "Bucket": 0.999962615,
+                                        "Left_Child": {
+                                            "Feature": "cos_joint1",
+                                            "Bucket": 0.999865,
+                                            "Left_Child": {
+                                                "Feature": "cos_joint1",
+                                                "Bucket": 0.99972215,
+                                                "Left_Child": {
+                                                    "Feature": "cos_joint1",
+                                                    "Bucket": 0.99962593,
+                                                    "Left_Child": {
+                                                        "Feature": "sin_joint1",
+                                                        "Bucket": 0.051204627,
+                                                        "Left_Child": {
+                                                            "Feature": "cos_joint2",
+                                                            "Bucket": 0.9858565699999999,
+                                                            "Left_Child": {
+                                                                "Feature": "sin_joint2",
+                                                                "Bucket": 0.938299225,
+                                                                "Left_Child": {
+                                                                    "Feature": "sin_joint1",
+                                                                    "Bucket": 0.04468689,
+                                                                    "Left_Child": {
+                                                                        "Feature": "cos_joint1",
+                                                                        "Bucket": -0.77952895,
+                                                                        "Left_Child": {
+                                                                            "Value": [
+                                                                                -8.244865
+                                                                            ]
+                                                                        },
+                                                                        "Right_Child": {
+                                                                            "Feature": "sin_joint2",
+                                                                            "Bucket": -0.37622769,
+                                                                            "Left_Child": {
+                                                                                "Value": [
+                                                                                    -1.5029281
+                                                                                ]
+                                                                            },
+                                                                            "Right_Child": {
+                                                                                "Feature": "sin_joint2",
+                                                                                "Bucket": -0.35393672,
+                                                                                "Left_Child": {
+                                                                                    "Value": [
+                                                                                        -1.489032
+                                                                                    ]
+                                                                                },
+                                                                                "Right_Child": {
+                                                                                    "Feature": "cos_joint1",
+                                                                                    "Bucket": -0.411002845,
+                                                                                    "Left_Child": {
+                                                                                        "Value": [
+                                                                                            -8.911792
+                                                                                        ]
+                                                                                    },
+                                                                                    "Right_Child": {
+                                                                                        "Feature": "sin_joint2",
+                                                                                        "Bucket": 0.6013429349999999,
+                                                                                        "Left_Child": {
+                                                                                            "Feature": "sin_joint2",
+                                                                                            "Bucket": -0.29217415,
+                                                                                            "Left_Child": {
+                                                                                                "Value": [
+                                                                                                    -1.7161556
+                                                                                                ]
+                                                                                            },
+                                                                                            "Right_Child": {
+                                                                                                "Feature": "cos_joint2",
+                                                                                                "Bucket": -0.8731556199999999,
+                                                                                                "Left_Child": {
+                                                                                                    "Value": [
+                                                                                                        -9.183045
+                                                                                                    ]
+                                                                                                },
+                                                                                                "Right_Child": {
+                                                                                                    "Feature": "sin_joint1",
+                                                                                                    "Bucket": 0.0340735135,
+                                                                                                    "Left_Child": {
+                                                                                                        "Feature": "cos_joint1",
+                                                                                                        "Bucket": 0.6531791650000001,
+                                                                                                        "Left_Child": {
+                                                                                                            "Value": [
+                                                                                                                -10.291771
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        "Right_Child": {
+                                                                                                            "Value": [
+                                                                                                                -1.0743908
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    },
+                                                                                                    "Right_Child": {
+                                                                                                        "Value": [
+                                                                                                            -1.2454823
+                                                                                                        ]
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        },
+                                                                                        "Right_Child": {
+                                                                                            "Feature": "cos_joint1",
+                                                                                            "Bucket": 0.436411905,
+                                                                                            "Left_Child": {
+                                                                                                "Value": [
+                                                                                                    -13.211433
+                                                                                                ]
+                                                                                            },
+                                                                                            "Right_Child": {
+                                                                                                "Value": [
+                                                                                                    -3.337206
+                                                                                                ]
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Value": [
+                                                                            -1.1138276
+                                                                        ]
+                                                                    }
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        -7.791147
+                                                                    ]
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    -1.4796826
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                -1.131738
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            -1.785673
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -1.1565651
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -1.7216452
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -1.7407657
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -1.3971416
+                                        ]
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -1.9023019
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -1.7842187
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            -2.043306
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Value": [
+                        -2.0342662
+                    ]
+                }
+            },
+            "Right_Child": {
+                "Feature": "sin_joint2",
+                "Bucket": -0.128871055,
+                "Left_Child": {
+                    "Feature": "sin_joint2",
+                    "Bucket": -0.6905327699999999,
+                    "Left_Child": {
+                        "Feature": "sin_joint2",
+                        "Bucket": -0.928549225,
+                        "Left_Child": {
+                            "Value": [
+                                -1.3859712
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "cos_joint1",
+                            "Bucket": 0.51633793,
+                            "Left_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.13476380500000001,
+                                "Left_Child": {
+                                    "Value": [
+                                        0.63051546
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -19.787083
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -1.0327581
+                                ]
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "cos_joint1",
+                        "Bucket": 0.997772875,
+                        "Left_Child": {
+                            "Feature": "cos_joint1",
+                            "Bucket": 0.996738075,
+                            "Left_Child": {
+                                "Feature": "cos_joint2",
+                                "Bucket": 0.988447285,
+                                "Left_Child": {
+                                    "Feature": "cos_joint1",
+                                    "Bucket": 0.99605572,
+                                    "Left_Child": {
+                                        "Feature": "cos_joint2",
+                                        "Bucket": 0.9852336850000001,
+                                        "Left_Child": {
+                                            "Feature": "cos_joint2",
+                                            "Bucket": 0.9845251,
+                                            "Left_Child": {
+                                                "Feature": "cos_joint2",
+                                                "Bucket": 0.9717751,
+                                                "Left_Child": {
+                                                    "Feature": "sin_joint2",
+                                                    "Bucket": -0.404501915,
+                                                    "Left_Child": {
+                                                        "Feature": "cos_joint1",
+                                                        "Bucket": 0.94888992,
+                                                        "Left_Child": {
+                                                            "Feature": "cos_joint1",
+                                                            "Bucket": 0.027639799999999992,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    -13.391401
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    -4.517446
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                -1.5346003
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Feature": "cos_joint2",
+                                                        "Bucket": 0.957925725,
+                                                        "Left_Child": {
+                                                            "Feature": "cos_joint1",
+                                                            "Bucket": 0.99207115,
+                                                            "Left_Child": {
+                                                                "Feature": "cos_joint1",
+                                                                "Bucket": 0.99086,
+                                                                "Left_Child": {
+                                                                    "Feature": "cos_joint1",
+                                                                    "Bucket": 0.51802677,
+                                                                    "Left_Child": {
+                                                                        "Value": [
+                                                                            -14.31566
+                                                                        ]
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Value": [
+                                                                            -1.425016
+                                                                        ]
+                                                                    }
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        -1.4386685
+                                                                    ]
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    -1.5247283
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                -1.9473461
+                                                            ]
+                                                        }
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -1.6947739
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -1.7516428
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -1.8341385
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -1.9237853
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -1.9257857
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -2.2110527
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -2.0676255
+                            ]
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "sin_joint2",
+                    "Bucket": -0.107514795,
+                    "Left_Child": {
+                        "Value": [
+                            -2.0383096
+                        ]
+                    },
+                    "Right_Child": {
+                        "Feature": "sin_joint2",
+                        "Bucket": -0.0671332465,
+                        "Left_Child": {
+                            "Value": [
+                                -1.7656413
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "cos_joint1",
+                            "Bucket": 0.997203775,
+                            "Left_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.7839145750000001,
+                                "Left_Child": {
+                                    "Value": [
+                                        -12.866348
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -1.6240648
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -1.6659058
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "cos_joint2",
+            "Bucket": 0.9968795500000001,
+            "Left_Child": {
+                "Feature": "ang_vel_joint1",
+                "Bucket": 0.210841,
+                "Left_Child": {
+                    "Feature": "sin_joint1",
+                    "Bucket": 0.15111775500000002,
+                    "Left_Child": {
+                        "Feature": "sin_joint2",
+                        "Bucket": -0.48527386,
+                        "Left_Child": {
+                            "Feature": "cos_joint2",
+                            "Bucket": 0.867770335,
+                            "Left_Child": {
+                                "Feature": "ang_vel_joint1",
+                                "Bucket": 0.038489085,
+                                "Left_Child": {
+                                    "Feature": "sin_joint1",
+                                    "Bucket": 0.0747552625,
+                                    "Left_Child": {
+                                        "Feature": "sin_joint1",
+                                        "Bucket": 0.06399513600000001,
+                                        "Left_Child": {
+                                            "Feature": "cos_joint1",
+                                            "Bucket": 0.8672633000000001,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    17.103565
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -0.96058047
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.80503803
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -0.95031965
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -0.8937661
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.829105
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "cos_joint2",
+                            "Bucket": 0.966988825,
+                            "Left_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.99954335,
+                                "Left_Child": {
+                                    "Feature": "sin_joint1",
+                                    "Bucket": 0.13606444,
+                                    "Left_Child": {
+                                        "Feature": "sin_joint1",
+                                        "Bucket": 0.12088244249999999,
+                                        "Left_Child": {
+                                            "Feature": "sin_joint1",
+                                            "Bucket": 0.10325878250000001,
+                                            "Left_Child": {
+                                                "Feature": "sin_joint1",
+                                                "Bucket": 0.086287332,
+                                                "Left_Child": {
+                                                    "Feature": "sin_joint1",
+                                                    "Bucket": 0.077401182,
+                                                    "Left_Child": {
+                                                        "Feature": "cos_joint1",
+                                                        "Bucket": 0.999337,
+                                                        "Left_Child": {
+                                                            "Feature": "cos_joint2",
+                                                            "Bucket": 0.923318,
+                                                            "Left_Child": {
+                                                                "Feature": "sin_joint2",
+                                                                "Bucket": 0.9449346000000001,
+                                                                "Left_Child": {
+                                                                    "Feature": "cos_joint1",
+                                                                    "Bucket": 0.99896382,
+                                                                    "Left_Child": {
+                                                                        "Feature": "cos_joint1",
+                                                                        "Bucket": 0.99874642,
+                                                                        "Left_Child": {
+                                                                            "Feature": "sin_joint1",
+                                                                            "Bucket": -0.932724425,
+                                                                            "Left_Child": {
+                                                                                "Value": [
+                                                                                    9.682425
+                                                                                ]
+                                                                            },
+                                                                            "Right_Child": {
+                                                                                "Feature": "cos_joint1",
+                                                                                "Bucket": 0.9978400999999999,
+                                                                                "Left_Child": {
+                                                                                    "Feature": "cos_joint1",
+                                                                                    "Bucket": 0.30733879,
+                                                                                    "Left_Child": {
+                                                                                        "Value": [
+                                                                                            18.041054
+                                                                                        ]
+                                                                                    },
+                                                                                    "Right_Child": {
+                                                                                        "Value": [
+                                                                                            -1.4170833
+                                                                                        ]
+                                                                                    }
+                                                                                },
+                                                                                "Right_Child": {
+                                                                                    "Value": [
+                                                                                        -0.7025064
+                                                                                    ]
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        "Right_Child": {
+                                                                            "Value": [
+                                                                                -0.47956464
+                                                                            ]
+                                                                        }
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Value": [
+                                                                            -0.34732682
+                                                                        ]
+                                                                    }
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        5.7997336
+                                                                    ]
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Feature": "sin_joint1",
+                                                                "Bucket": 0.007761488499999997,
+                                                                "Left_Child": {
+                                                                    "Feature": "cos_joint1",
+                                                                    "Bucket": 0.99922725,
+                                                                    "Left_Child": {
+                                                                        "Feature": "cos_joint1",
+                                                                        "Bucket": 0.9280425999999999,
+                                                                        "Left_Child": {
+                                                                            "Value": [
+                                                                                7.7221947
+                                                                            ]
+                                                                        },
+                                                                        "Right_Child": {
+                                                                            "Value": [
+                                                                                -1.0057019
+                                                                            ]
+                                                                        }
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Value": [
+                                                                            -0.9553797
+                                                                        ]
+                                                                    }
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        -0.8699305
+                                                                    ]
+                                                                }
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                -1.3126596
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            -1.0023304
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -0.7045975
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -1.1383206
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.814167
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -1.0414847
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -0.9345796
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "sin_joint2",
+                                "Bucket": -0.18780691,
+                                "Left_Child": {
+                                    "Feature": "ang_vel_joint1",
+                                    "Bucket": -0.09016539650000001,
+                                    "Left_Child": {
+                                        "Feature": "sin_joint1",
+                                        "Bucket": 0.059881969,
+                                        "Left_Child": {
+                                            "Feature": "cos_joint1",
+                                            "Bucket": 0.9874290649999999,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    8.340533
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -1.0964912
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.8736208
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -0.035302352
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Feature": "cos_joint1",
+                                    "Bucket": 0.99805005,
+                                    "Left_Child": {
+                                        "Feature": "cos_joint1",
+                                        "Bucket": 0.99563665,
+                                        "Left_Child": {
+                                            "Feature": "sin_joint2",
+                                            "Bucket": -0.12436888499999998,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    -0.488829
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "sin_joint1",
+                                                "Bucket": 0.132972202,
+                                                "Left_Child": {
+                                                    "Feature": "cos_joint1",
+                                                    "Bucket": 0.9556659999999999,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            13.703805
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            -0.9869882
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -0.8442433
+                                                    ]
+                                                }
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.4610971
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            0.004655231
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "cos_joint1",
+                        "Bucket": 0.9870527499999999,
+                        "Left_Child": {
+                            "Feature": "cos_joint1",
+                            "Bucket": 0.9840282,
+                            "Left_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.90999365,
+                                "Left_Child": {
+                                    "Value": [
+                                        8.13059
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -1.0018439
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.7212881
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.5877735
+                            ]
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "cos_joint1",
+                    "Bucket": 0.381300783,
+                    "Left_Child": {
+                        "Feature": "cos_joint1",
+                        "Bucket": -0.122325467,
+                        "Left_Child": {
+                            "Value": [
+                                -2.0089712
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                1.9428443
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "cos_joint1",
+                        "Bucket": 0.997875895,
+                        "Left_Child": {
+                            "Feature": "sin_joint1",
+                            "Bucket": 0.1070885,
+                            "Left_Child": {
+                                "Feature": "sin_joint1",
+                                "Bucket": 0.08725546,
+                                "Left_Child": {
+                                    "Feature": "cos_joint1",
+                                    "Bucket": 0.847842675,
+                                    "Left_Child": {
+                                        "Value": [
+                                            9.648137
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -1.6052212
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -1.5915238
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -1.5369083
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -1.4685715
+                            ]
+                        }
+                    }
+                }
+            },
+            "Right_Child": {
+                "Feature": "sin_joint1",
+                "Bucket": 0.0734725125,
+                "Left_Child": {
+                    "Feature": "sin_joint1",
+                    "Bucket": 0.05253436,
+                    "Left_Child": {
+                        "Feature": "cos_joint1",
+                        "Bucket": 0.9892176500000001,
+                        "Left_Child": {
+                            "Value": [
+                                3.412811
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "sin_joint1",
+                            "Bucket": 0.008479557500000002,
+                            "Left_Child": {
+                                "Feature": "cos_joint1",
+                                "Bucket": 0.99506805,
+                                "Left_Child": {
+                                    "Value": [
+                                        4.0991836
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -1.39107
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -1.2498008
+                                ]
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            -1.1230336
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Value": [
+                        -0.93127185
+                    ]
+                }
+            }
+        }
+    }
+}

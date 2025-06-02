@@ -1,0 +1,3586 @@
+{
+    "leg1hip": {
+        "Feature": "Hull Angular Velocity",
+        "Bucket": -0.032285219000000004,
+        "Left_Child": {
+            "Feature": "Knee Joint 2 Angle",
+            "Bucket": 0.39369139,
+            "Left_Child": {
+                "Feature": "Lidar Sensor 2",
+                "Bucket": 0.32349364,
+                "Left_Child": {
+                    "Feature": "Hip Joint 2 Speed",
+                    "Bucket": 0.50049275,
+                    "Left_Child": {
+                        "Feature": "Hip Joint 2 Angle",
+                        "Bucket": 1.1183886,
+                        "Left_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.11485361499999999,
+                            "Left_Child": {
+                                "Value": [
+                                    3.5244813
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    3.5354319
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                3.3050668
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            3.7539961
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "Leg 2 Ground Contact Flag",
+                    "Bucket": 0.5,
+                    "Left_Child": {
+                        "Feature": "Lidar Sensor 9",
+                        "Bucket": 0.9546095,
+                        "Left_Child": {
+                            "Feature": "Knee Joint 1 Angle",
+                            "Bucket": -0.189242305,
+                            "Left_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.04251875149999999,
+                                "Left_Child": {
+                                    "Value": [
+                                        2.592392
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        2.6891205
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    2.5087144
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.0178600195,
+                            "Left_Child": {
+                                "Value": [
+                                    2.7813103
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    3.1669927
+                                ]
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "Lidar Sensor 1",
+                        "Bucket": 0.331919825,
+                        "Left_Child": {
+                            "Value": [
+                                3.311517
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": -0.00029014999999999944,
+                            "Left_Child": {
+                                "Value": [
+                                    3.1386964
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    3.1461446
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "Right_Child": {
+                "Value": [
+                    0.49966022
+                ]
+            }
+        },
+        "Right_Child": {
+            "Feature": "Hip Joint 1 Angle",
+            "Bucket": -0.102701948,
+            "Left_Child": {
+                "Feature": "Knee Joint 1 Speed",
+                "Bucket": -0.71516908,
+                "Left_Child": {
+                    "Feature": "Lidar Sensor 2",
+                    "Bucket": 0.35737253999999996,
+                    "Left_Child": {
+                        "Feature": "Lidar Sensor 6",
+                        "Bucket": 0.456900555,
+                        "Left_Child": {
+                            "Feature": "Lidar Sensor 7",
+                            "Bucket": 0.47871074,
+                            "Left_Child": {
+                                "Value": [
+                                    3.1463838
+                                ]
+                            },
+                            "Right_Child": {
+                                "Feature": "Knee Joint 1 Angle",
+                                "Bucket": -0.31343580000000004,
+                                "Left_Child": {
+                                    "Value": [
+                                        2.909911
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Lidar Sensor 1",
+                                    "Bucket": 0.320958955,
+                                    "Left_Child": {
+                                        "Value": [
+                                            2.8167408
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Hull Angle",
+                                        "Bucket": 0.142629292,
+                                        "Left_Child": {
+                                            "Value": [
+                                                2.8886664
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                2.877688
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Hip Joint 1 Speed",
+                            "Bucket": 0.329291935,
+                            "Left_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.060788853,
+                                "Left_Child": {
+                                    "Value": [
+                                        2.3196125
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        2.410126
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Lidar Sensor 9",
+                                "Bucket": 0.95618055,
+                                "Left_Child": {
+                                    "Value": [
+                                        2.5492036
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Hip Joint 1 Speed",
+                                    "Bucket": 0.9490566,
+                                    "Left_Child": {
+                                        "Feature": "Hull Angle",
+                                        "Bucket": 0.060275377,
+                                        "Left_Child": {
+                                            "Value": [
+                                                2.7540898
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                2.6932657
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            2.8419797
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            2.263542
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "Knee Joint 2 Angle",
+                    "Bucket": -0.016803264999999998,
+                    "Left_Child": {
+                        "Value": [
+                            1.8734392
+                        ]
+                    },
+                    "Right_Child": {
+                        "Feature": "Lidar Sensor 9",
+                        "Bucket": 0.81883,
+                        "Left_Child": {
+                            "Value": [
+                                1.1974437
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "Lidar Sensor 9",
+                            "Bucket": 0.89741513,
+                            "Left_Child": {
+                                "Feature": "Hull Angular Velocity",
+                                "Bucket": -0.016720876,
+                                "Left_Child": {
+                                    "Feature": "Knee Joint 2 Angle",
+                                    "Bucket": 0.30763501,
+                                    "Left_Child": {
+                                        "Value": [
+                                            1.2636518
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Hull Angle",
+                                        "Bucket": 0.094122553,
+                                        "Left_Child": {
+                                            "Value": [
+                                                1.3302928
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                1.604928
+                                            ]
+                                        }
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Feature": "Lidar Sensor 9",
+                                    "Bucket": 0.88347743,
+                                    "Left_Child": {
+                                        "Feature": "Lidar Sensor 9",
+                                        "Bucket": 0.861242465,
+                                        "Left_Child": {
+                                            "Feature": "Hull Angle",
+                                            "Bucket": 0.100745821,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    0.56938744
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    0.6354923
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Hull Angle",
+                                            "Bucket": 0.1219213475,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    0.3616937
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    0.37856323
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -0.47489715
+                                        ]
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Lidar Sensor 9",
+                                "Bucket": 0.9177261800000001,
+                                "Left_Child": {
+                                    "Feature": "Knee Joint 1 Speed",
+                                    "Bucket": -0.004855350000000008,
+                                    "Left_Child": {
+                                        "Value": [
+                                            1.4229708
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Knee Joint 1 Speed",
+                                        "Bucket": 0.71396538,
+                                        "Left_Child": {
+                                            "Value": [
+                                                1.1934496
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Hull Angle",
+                                            "Bucket": 0.085233772,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    1.2678938
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    1.2973657
+                                                ]
+                                            }
+                                        }
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Feature": "Knee Joint 2 Angle",
+                                    "Bucket": 0.26029292000000004,
+                                    "Left_Child": {
+                                        "Value": [
+                                            1.7134049
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Lidar Sensor 9",
+                                        "Bucket": 0.96446425,
+                                        "Left_Child": {
+                                            "Feature": "Knee Joint 2 Angle",
+                                            "Bucket": 0.33662355,
+                                            "Left_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.13137883,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        0.5318932
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        0.38225323
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.094744147,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        0.71091795
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        0.93712825
+                                                    ]
+                                                }
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Lidar Sensor 9",
+                                            "Bucket": 0.9868483699999999,
+                                            "Left_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.075176222,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        1.2952356
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        1.2768775
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.129927737,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        0.74583197
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -0.041481867
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "Right_Child": {
+                "Feature": "Knee Joint 2 Angle",
+                "Bucket": -0.15004783500000002,
+                "Left_Child": {
+                    "Feature": "Lidar Sensor 4",
+                    "Bucket": 0.36314258,
+                    "Left_Child": {
+                        "Feature": "Hull Angle",
+                        "Bucket": 0.12823717499999998,
+                        "Left_Child": {
+                            "Value": [
+                                0.8234869
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -2.2348802
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "Hip Joint 2 Angle",
+                        "Bucket": 1.1156854,
+                        "Left_Child": {
+                            "Value": [
+                                -2.999984
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.074164465,
+                            "Left_Child": {
+                                "Value": [
+                                    -2.9161
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -2.9104803
+                                ]
+                            }
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "Knee Joint 1 Speed",
+                    "Bucket": -0.269427515,
+                    "Left_Child": {
+                        "Feature": "Hip Joint 1 Angle",
+                        "Bucket": 0.133362205,
+                        "Left_Child": {
+                            "Feature": "Lidar Sensor 1",
+                            "Bucket": 0.323015485,
+                            "Left_Child": {
+                                "Value": [
+                                    1.6772869
+                                ]
+                            },
+                            "Right_Child": {
+                                "Feature": "Lidar Sensor 1",
+                                "Bucket": 0.33127872999999997,
+                                "Left_Child": {
+                                    "Value": [
+                                        1.2547954
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Lidar Sensor 2",
+                                    "Bucket": 0.34814687499999997,
+                                    "Left_Child": {
+                                        "Feature": "Lidar Sensor 2",
+                                        "Bucket": 0.33953685,
+                                        "Left_Child": {
+                                            "Feature": "Lidar Sensor 5",
+                                            "Bucket": 0.37844138000000005,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    1.5537047
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.197307915,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        1.6753378
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        1.8899481
+                                                    ]
+                                                }
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Lidar Sensor 6",
+                                            "Bucket": 0.439914825,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    1.740385
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.11223322,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        0.9753382
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        1.1349862
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Hull Angle",
+                                        "Bucket": -0.0548658255,
+                                        "Left_Child": {
+                                            "Value": [
+                                                1.4953222
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                1.5977213
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Lidar Sensor 1",
+                            "Bucket": 0.33840002,
+                            "Left_Child": {
+                                "Feature": "Lidar Sensor 1",
+                                "Bucket": 0.32924522,
+                                "Left_Child": {
+                                    "Feature": "Hull Angle",
+                                    "Bucket": 0.111963688,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -0.1273253
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            0.650432
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        0.22571912
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Knee Joint 1 Angle",
+                                "Bucket": -0.5583735000000001,
+                                "Left_Child": {
+                                    "Feature": "Hull Angle",
+                                    "Bucket": 0.0618222985,
+                                    "Left_Child": {
+                                        "Value": [
+                                            0.87630975
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            0.85552037
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        1.0931141
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "Knee Joint 1 Speed",
+                        "Bucket": 1.00000007,
+                        "Left_Child": {
+                            "Feature": "Knee Joint 1 Speed",
+                            "Bucket": 0.5456460249999999,
+                            "Left_Child": {
+                                "Feature": "Velocity Y",
+                                "Bucket": 0.0255414955,
+                                "Left_Child": {
+                                    "Feature": "Hip Joint 1 Angle",
+                                    "Bucket": 0.131517425,
+                                    "Left_Child": {
+                                        "Feature": "Lidar Sensor 6",
+                                        "Bucket": 0.43229403,
+                                        "Left_Child": {
+                                            "Value": [
+                                                -0.64952993
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Knee Joint 1 Speed",
+                                            "Bucket": 0.511908295,
+                                            "Left_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.11864609500000001,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        -0.24670234
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        0.12640625
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -0.90268517
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Knee Joint 1 Speed",
+                                        "Bucket": -7.4505805e-08,
+                                        "Left_Child": {
+                                            "Value": [
+                                                -1.1396797
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Velocity Y",
+                                            "Bucket": -0.041121977000000004,
+                                            "Left_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.10273768999999999,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        -0.5281388
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -0.7832707
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Lidar Sensor 8",
+                                                "Bucket": 0.74667035,
+                                                "Left_Child": {
+                                                    "Feature": "Lidar Sensor 4",
+                                                    "Bucket": 0.38059179499999995,
+                                                    "Left_Child": {
+                                                        "Feature": "Hip Joint 2 Speed",
+                                                        "Bucket": 0.000144777353,
+                                                        "Left_Child": {
+                                                            "Feature": "Lidar Sensor 9",
+                                                            "Bucket": 0.937478225,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    -1.9003172
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Feature": "Hull Angle",
+                                                                "Bucket": 0.109877285,
+                                                                "Left_Child": {
+                                                                    "Value": [
+                                                                        -1.6734587
+                                                                    ]
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        -1.6216501
+                                                                    ]
+                                                                }
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                -1.3491101
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            -1.4969766
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -2.7920234
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        1.8550687
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Leg 2 Ground Contact Flag",
+                                "Bucket": 0.5,
+                                "Left_Child": {
+                                    "Feature": "Lidar Sensor 6",
+                                    "Bucket": 0.43143405,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -1.7333133
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Lidar Sensor 6",
+                                        "Bucket": 0.46478275,
+                                        "Left_Child": {
+                                            "Feature": "Hip Joint 1 Speed",
+                                            "Bucket": 1.0000001,
+                                            "Left_Child": {
+                                                "Feature": "Knee Joint 2 Speed",
+                                                "Bucket": 0.99901428,
+                                                "Left_Child": {
+                                                    "Feature": "Hip Joint 1 Speed",
+                                                    "Bucket": 0.004802300000000037,
+                                                    "Left_Child": {
+                                                        "Feature": "Hull Angle",
+                                                        "Bucket": 0.0665615735,
+                                                        "Left_Child": {
+                                                            "Value": [
+                                                                0.14218032
+                                                            ]
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                -0.024643153
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            0.70107126
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "Hip Joint 1 Speed",
+                                                    "Bucket": -1.0019567999999999,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            -1.6302413
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Feature": "Knee Joint 2 Speed",
+                                                        "Bucket": 1.00012093,
+                                                        "Left_Child": {
+                                                            "Value": [
+                                                                -0.7989261
+                                                            ]
+                                                        },
+                                                        "Right_Child": {
+                                                            "Feature": "Lidar Sensor 8",
+                                                            "Bucket": 0.67910435,
+                                                            "Left_Child": {
+                                                                "Feature": "Hull Angle",
+                                                                "Bucket": 0.0108345255,
+                                                                "Left_Child": {
+                                                                    "Value": [
+                                                                        -0.33298612
+                                                                    ]
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        -0.32067305
+                                                                    ]
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    -0.56754756
+                                                                ]
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    1.2026546
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Knee Joint 1 Speed",
+                                            "Bucket": 0.615225675,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    -0.5931127
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Knee Joint 1 Speed",
+                                                "Bucket": 0.72865245,
+                                                "Left_Child": {
+                                                    "Feature": "Knee Joint 1 Speed",
+                                                    "Bucket": 0.640171,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            -0.058837608
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Feature": "Hull Angle",
+                                                        "Bucket": 0.024445735,
+                                                        "Left_Child": {
+                                                            "Value": [
+                                                                -0.089333236
+                                                            ]
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                -0.083163075
+                                                            ]
+                                                        }
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        0.28545848
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -1.6032884
+                                    ]
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -1.3756708
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "leg1knee": {
+        "Feature": "Knee Joint 2 Angle",
+        "Bucket": 0.031645864,
+        "Left_Child": {
+            "Feature": "Velocity Y",
+            "Bucket": 0.042387307,
+            "Left_Child": {
+                "Feature": "Knee Joint 2 Angle",
+                "Bucket": -0.16497284,
+                "Left_Child": {
+                    "Feature": "Lidar Sensor 4",
+                    "Bucket": 0.36071952,
+                    "Left_Child": {
+                        "Feature": "Hull Angle",
+                        "Bucket": 0.16238446,
+                        "Left_Child": {
+                            "Value": [
+                                -1.4102283
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                0.09996171
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "Lidar Sensor 9",
+                        "Bucket": 0.8676159,
+                        "Left_Child": {
+                            "Value": [
+                                3.5913002
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.093512612,
+                            "Left_Child": {
+                                "Value": [
+                                    5.306245
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    5.3988442
+                                ]
+                            }
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "Knee Joint 2 Angle",
+                    "Bucket": -0.15004783500000002,
+                    "Left_Child": {
+                        "Value": [
+                            4.621079
+                        ]
+                    },
+                    "Right_Child": {
+                        "Feature": "Hip Joint 1 Angle",
+                        "Bucket": -0.350429985,
+                        "Left_Child": {
+                            "Value": [
+                                -0.8855571
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "Hip Joint 1 Angle",
+                            "Bucket": 0.217115665,
+                            "Left_Child": {
+                                "Feature": "Lidar Sensor 1",
+                                "Bucket": 0.3257916,
+                                "Left_Child": {
+                                    "Feature": "Velocity Y",
+                                    "Bucket": -0.033203195000000005,
+                                    "Left_Child": {
+                                        "Value": [
+                                            1.3309133
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Lidar Sensor 7",
+                                        "Bucket": 0.511652585,
+                                        "Left_Child": {
+                                            "Value": [
+                                                2.7415187
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Hull Angle",
+                                            "Bucket": 0.115866915,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    3.7639897
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    3.8186104
+                                                ]
+                                            }
+                                        }
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Feature": "Lidar Sensor 1",
+                                    "Bucket": 0.33127872999999997,
+                                    "Left_Child": {
+                                        "Value": [
+                                            1.4034455
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Lidar Sensor 2",
+                                        "Bucket": 0.34814687499999997,
+                                        "Left_Child": {
+                                            "Feature": "Lidar Sensor 6",
+                                            "Bucket": 0.41392081999999997,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    1.3993881
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Lidar Sensor 2",
+                                                "Bucket": 0.34151459,
+                                                "Left_Child": {
+                                                    "Feature": "Lidar Sensor 5",
+                                                    "Bucket": 0.403042175,
+                                                    "Left_Child": {
+                                                        "Feature": "Lidar Sensor 3",
+                                                        "Bucket": 0.340795085,
+                                                        "Left_Child": {
+                                                            "Value": [
+                                                                0.38806242
+                                                            ]
+                                                        },
+                                                        "Right_Child": {
+                                                            "Feature": "Hull Angle",
+                                                            "Bucket": 0.152569215,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    0.28173167
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    0.22723246
+                                                                ]
+                                                            }
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            0.35456854
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "Lidar Sensor 6",
+                                                    "Bucket": 0.43723672999999996,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            0.9858169
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Feature": "Lidar Sensor 6",
+                                                        "Bucket": 0.4439676,
+                                                        "Left_Child": {
+                                                            "Value": [
+                                                                -0.59210855
+                                                            ]
+                                                        },
+                                                        "Right_Child": {
+                                                            "Feature": "Hull Angle",
+                                                            "Bucket": 0.12374765,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    0.32522064
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    0.13264595
+                                                                ]
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Lidar Sensor 8",
+                                            "Bucket": 0.701288255,
+                                            "Left_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.0015348179999999994,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        -0.21927822
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -0.36592817
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -0.013930108
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Hull Angular Velocity",
+                                "Bucket": -0.0011697994999999997,
+                                "Left_Child": {
+                                    "Value": [
+                                        3.7643986
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Lidar Sensor 1",
+                                    "Bucket": 0.32924522,
+                                    "Left_Child": {
+                                        "Feature": "Hull Angle",
+                                        "Bucket": 0.111963688,
+                                        "Left_Child": {
+                                            "Value": [
+                                                2.015155
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                1.4404205
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Hull Angle",
+                                        "Bucket": 0.103048555,
+                                        "Left_Child": {
+                                            "Value": [
+                                                0.754366
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                0.9738534
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "Right_Child": {
+                "Feature": "Hull Angle",
+                "Bucket": 0.109876585,
+                "Left_Child": {
+                    "Value": [
+                        3.7456217
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        4.4823995
+                    ]
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "Knee Joint 1 Speed",
+            "Bucket": 0.021856325000000003,
+            "Left_Child": {
+                "Feature": "Lidar Sensor 2",
+                "Bucket": 0.30990140499999996,
+                "Left_Child": {
+                    "Value": [
+                        -2.7370095
+                    ]
+                },
+                "Right_Child": {
+                    "Feature": "Hip Joint 2 Speed",
+                    "Bucket": -1.72294675e-08,
+                    "Left_Child": {
+                        "Feature": "Lidar Sensor 2",
+                        "Bucket": 0.33932148,
+                        "Left_Child": {
+                            "Feature": "Lidar Sensor 2",
+                            "Bucket": 0.326447485,
+                            "Left_Child": {
+                                "Value": [
+                                    -1.2021842
+                                ]
+                            },
+                            "Right_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.118787537,
+                                "Left_Child": {
+                                    "Value": [
+                                        -0.5377267
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -0.75667936
+                                    ]
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Knee Joint 1 Speed",
+                            "Bucket": -0.55352365,
+                            "Left_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.030218163500000002,
+                                "Left_Child": {
+                                    "Value": [
+                                        -0.16634
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        0.5501525
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    0.26967263
+                                ]
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "Hip Joint 2 Speed",
+                        "Bucket": 4.09707425e-05,
+                        "Left_Child": {
+                            "Feature": "Hull Angular Velocity",
+                            "Bucket": -0.029940294,
+                            "Left_Child": {
+                                "Feature": "Velocity Y",
+                                "Bucket": -0.0122484655,
+                                "Left_Child": {
+                                    "Feature": "Lidar Sensor 1",
+                                    "Bucket": 0.33207735,
+                                    "Left_Child": {
+                                        "Feature": "Knee Joint 1 Speed",
+                                        "Bucket": -0.99999978,
+                                        "Left_Child": {
+                                            "Feature": "Knee Joint 1 Speed",
+                                            "Bucket": -0.99999987,
+                                            "Left_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.0701289725,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        -0.94093627
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -0.94034535
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -0.9438098
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -1.0768006
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -0.86798835
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Feature": "Knee Joint 2 Angle",
+                                    "Bucket": 0.22843811,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -1.8605711
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Knee Joint 2 Speed",
+                                        "Bucket": -0.99999975,
+                                        "Left_Child": {
+                                            "Value": [
+                                                -1.2663064
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Velocity Y",
+                                            "Bucket": -0.011648809999999999,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    -1.4071405
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.052152591,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        -1.3215547
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -1.202507
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Knee Joint 1 Speed",
+                                "Bucket": -1.0000000500000001,
+                                "Left_Child": {
+                                    "Feature": "Hull Angle",
+                                    "Bucket": 0.0541873045,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -1.2341154
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -1.0297569
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Feature": "Knee Joint 1 Speed",
+                                    "Bucket": -0.9999998999999999,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -0.58746296
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Knee Joint 1 Angle",
+                                        "Bucket": -0.0445755115,
+                                        "Left_Child": {
+                                            "Feature": "Knee Joint 1 Speed",
+                                            "Bucket": -0.99996083,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    -0.6254105
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Lidar Sensor 5",
+                                                "Bucket": 0.435226935,
+                                                "Left_Child": {
+                                                    "Feature": "Hull Angle",
+                                                    "Bucket": 0.10092436049999999,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            -0.7801148
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            -0.74687046
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -0.71258944
+                                                    ]
+                                                }
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.9684424
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -1.1928703
+                            ]
+                        }
+                    }
+                }
+            },
+            "Right_Child": {
+                "Feature": "Knee Joint 1 Angle",
+                "Bucket": -0.29742634,
+                "Left_Child": {
+                    "Feature": "Knee Joint 2 Angle",
+                    "Bucket": 0.240065545,
+                    "Left_Child": {
+                        "Feature": "Knee Joint 1 Speed",
+                        "Bucket": 0.59203476,
+                        "Left_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.136045855,
+                            "Left_Child": {
+                                "Feature": "Lidar Sensor 2",
+                                "Bucket": 0.334026155,
+                                "Left_Child": {
+                                    "Value": [
+                                        4.6788144
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Lidar Sensor 6",
+                                    "Bucket": 0.434612335,
+                                    "Left_Child": {
+                                        "Value": [
+                                            5.0460725
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Lidar Sensor 7",
+                                        "Bucket": 0.5358594299999999,
+                                        "Left_Child": {
+                                            "Value": [
+                                                4.8819404
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Lidar Sensor 7",
+                                            "Bucket": 0.550228145,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    4.6353936
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.0833106635,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        5.220374
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        4.990268
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    5.744827
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Hip Joint 1 Angle",
+                            "Bucket": -0.015459273999999999,
+                            "Left_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.16502826999999998,
+                                "Left_Child": {
+                                    "Value": [
+                                        4.520675
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        4.555611
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    3.4372525
+                                ]
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "Hip Joint 1 Speed",
+                        "Bucket": -0.99969642,
+                        "Left_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.041085182500000005,
+                            "Left_Child": {
+                                "Value": [
+                                    3.8053918
+                                ]
+                            },
+                            "Right_Child": {
+                                "Feature": "Lidar Sensor 4",
+                                "Bucket": 0.35916682,
+                                "Left_Child": {
+                                    "Value": [
+                                        4.066501
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Lidar Sensor 8",
+                                    "Bucket": 0.7310403000000001,
+                                    "Left_Child": {
+                                        "Feature": "Lidar Sensor 4",
+                                        "Bucket": 0.37670433000000003,
+                                        "Left_Child": {
+                                            "Feature": "Hull Angle",
+                                            "Bucket": 0.10220600499999999,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    4.2324204
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    4.283783
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                4.391837
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            3.9490066
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.0782794325,
+                            "Left_Child": {
+                                "Value": [
+                                    3.4969337
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    3.4789834
+                                ]
+                            }
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "Knee Joint 1 Angle",
+                    "Bucket": -0.129287958,
+                    "Left_Child": {
+                        "Feature": "Lidar Sensor 4",
+                        "Bucket": 0.38059738,
+                        "Left_Child": {
+                            "Feature": "Lidar Sensor 2",
+                            "Bucket": 0.33004237999999997,
+                            "Left_Child": {
+                                "Feature": "Knee Joint 1 Angle",
+                                "Bucket": -0.19229484000000002,
+                                "Left_Child": {
+                                    "Feature": "Knee Joint 1 Angle",
+                                    "Bucket": -0.207739415,
+                                    "Left_Child": {
+                                        "Feature": "Hull Angle",
+                                        "Bucket": 0.166772205,
+                                        "Left_Child": {
+                                            "Value": [
+                                                3.3042347
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                3.4899466
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            3.6206136
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        2.5336106
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Lidar Sensor 9",
+                                "Bucket": 0.84125343,
+                                "Left_Child": {
+                                    "Value": [
+                                        2.5946972
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Lidar Sensor 9",
+                                    "Bucket": 0.9371777,
+                                    "Left_Child": {
+                                        "Feature": "Lidar Sensor 8",
+                                        "Bucket": 0.62635365,
+                                        "Left_Child": {
+                                            "Value": [
+                                                2.026522
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Hull Angle",
+                                            "Bucket": 0.1003678,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    2.3449247
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    2.1363568
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            1.7069266
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.001275118500000002,
+                            "Left_Child": {
+                                "Value": [
+                                    0.80480224
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    1.0456387
+                                ]
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "Knee Joint 2 Speed",
+                        "Bucket": -0.9999997300000001,
+                        "Left_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.08076398,
+                            "Left_Child": {
+                                "Value": [
+                                    -1.4852996
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -1.1433871
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Knee Joint 2 Speed",
+                            "Bucket": 0.9999898650000001,
+                            "Left_Child": {
+                                "Feature": "Hip Joint 1 Speed",
+                                "Bucket": -1.0368438,
+                                "Left_Child": {
+                                    "Feature": "Knee Joint 1 Speed",
+                                    "Bucket": 0.80012995,
+                                    "Left_Child": {
+                                        "Value": [
+                                            0.9311391
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Knee Joint 1 Speed",
+                                        "Bucket": 1.0159289500000002,
+                                        "Left_Child": {
+                                            "Feature": "Knee Joint 1 Speed",
+                                            "Bucket": 1.00799905,
+                                            "Left_Child": {
+                                                "Feature": "Knee Joint 1 Speed",
+                                                "Bucket": 0.9992652,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        0.7446905
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "Knee Joint 1 Speed",
+                                                    "Bucket": 1.001929,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            -0.11904627
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Feature": "Hull Angle",
+                                                        "Bucket": 0.079829062,
+                                                        "Left_Child": {
+                                                            "Value": [
+                                                                0.44019136
+                                                            ]
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                0.4021693
+                                                            ]
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    0.19777633
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                0.33381805
+                                            ]
+                                        }
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Feature": "Hull Angle",
+                                    "Bucket": 0.051465838,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -1.5319474
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -1.3894093
+                                        ]
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Knee Joint 2 Angle",
+                                "Bucket": 0.338555335,
+                                "Left_Child": {
+                                    "Value": [
+                                        1.825388
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Hull Angle",
+                                    "Bucket": 0.0684792205,
+                                    "Left_Child": {
+                                        "Value": [
+                                            0.9733755
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            1.2617722
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "leg2hip": {
+        "Feature": "Knee Joint 2 Speed",
+        "Bucket": -0.499257995,
+        "Left_Child": {
+            "Feature": "Lidar Sensor 2",
+            "Bucket": 0.314822955,
+            "Left_Child": {
+                "Feature": "Hull Angle",
+                "Bucket": 0.12340161999999999,
+                "Left_Child": {
+                    "Value": [
+                        0.80819905
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        0.7880763
+                    ]
+                }
+            },
+            "Right_Child": {
+                "Feature": "Velocity Y",
+                "Bucket": 0.036607388500000004,
+                "Left_Child": {
+                    "Feature": "Lidar Sensor 2",
+                    "Bucket": 0.32387933999999996,
+                    "Left_Child": {
+                        "Value": [
+                            2.6947062
+                        ]
+                    },
+                    "Right_Child": {
+                        "Feature": "Hull Angular Velocity",
+                        "Bucket": 0.040594562,
+                        "Left_Child": {
+                            "Feature": "Lidar Sensor 2",
+                            "Bucket": 0.359841345,
+                            "Left_Child": {
+                                "Feature": "Velocity Y",
+                                "Bucket": -0.045523932,
+                                "Left_Child": {
+                                    "Value": [
+                                        1.3042847
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Hull Angular Velocity",
+                                    "Bucket": 0.0368699315,
+                                    "Left_Child": {
+                                        "Feature": "Hull Angular Velocity",
+                                        "Bucket": 0.0351887385,
+                                        "Left_Child": {
+                                            "Feature": "Hull Angular Velocity",
+                                            "Bucket": -0.054753905,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    1.3294559
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Hull Angular Velocity",
+                                                "Bucket": 0.026113591999999998,
+                                                "Left_Child": {
+                                                    "Feature": "Hull Angular Velocity",
+                                                    "Bucket": 0.020468739,
+                                                    "Left_Child": {
+                                                        "Feature": "Velocity Y",
+                                                        "Bucket": 0.016202159,
+                                                        "Left_Child": {
+                                                            "Feature": "Hull Angular Velocity",
+                                                            "Bucket": 0.015278491,
+                                                            "Left_Child": {
+                                                                "Feature": "Hull Angular Velocity",
+                                                                "Bucket": 0.012840306,
+                                                                "Left_Child": {
+                                                                    "Feature": "Hip Joint 1 Angle",
+                                                                    "Bucket": -0.18956291,
+                                                                    "Left_Child": {
+                                                                        "Feature": "Knee Joint 1 Speed",
+                                                                        "Bucket": -0.28786202,
+                                                                        "Left_Child": {
+                                                                            "Feature": "Hip Joint 1 Speed",
+                                                                            "Bucket": 0.24034983000000001,
+                                                                            "Left_Child": {
+                                                                                "Value": [
+                                                                                    2.2938437
+                                                                                ]
+                                                                            },
+                                                                            "Right_Child": {
+                                                                                "Feature": "Lidar Sensor 3",
+                                                                                "Bucket": 0.33871559,
+                                                                                "Left_Child": {
+                                                                                    "Feature": "Hull Angle",
+                                                                                    "Bucket": 0.091163283,
+                                                                                    "Left_Child": {
+                                                                                        "Value": [
+                                                                                            1.7409446
+                                                                                        ]
+                                                                                    },
+                                                                                    "Right_Child": {
+                                                                                        "Value": [
+                                                                                            2.1747658
+                                                                                        ]
+                                                                                    }
+                                                                                },
+                                                                                "Right_Child": {
+                                                                                    "Feature": "Hull Angle",
+                                                                                    "Bucket": 0.060275377,
+                                                                                    "Left_Child": {
+                                                                                        "Value": [
+                                                                                            2.092655
+                                                                                        ]
+                                                                                    },
+                                                                                    "Right_Child": {
+                                                                                        "Value": [
+                                                                                            2.061908
+                                                                                        ]
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        "Right_Child": {
+                                                                            "Feature": "Hip Joint 1 Angle",
+                                                                            "Bucket": -0.24763187000000003,
+                                                                            "Left_Child": {
+                                                                                "Feature": "Hip Joint 1 Angle",
+                                                                                "Bucket": -0.28909468000000005,
+                                                                                "Left_Child": {
+                                                                                    "Feature": "Hull Angle",
+                                                                                    "Bucket": 0.08076398,
+                                                                                    "Left_Child": {
+                                                                                        "Value": [
+                                                                                            1.7533734
+                                                                                        ]
+                                                                                    },
+                                                                                    "Right_Child": {
+                                                                                        "Value": [
+                                                                                            1.7664108
+                                                                                        ]
+                                                                                    }
+                                                                                },
+                                                                                "Right_Child": {
+                                                                                    "Value": [
+                                                                                        1.6786219
+                                                                                    ]
+                                                                                }
+                                                                            },
+                                                                            "Right_Child": {
+                                                                                "Value": [
+                                                                                    1.8485931
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Feature": "Lidar Sensor 7",
+                                                                        "Bucket": 0.5544166850000001,
+                                                                        "Left_Child": {
+                                                                            "Value": [
+                                                                                2.1342957
+                                                                            ]
+                                                                        },
+                                                                        "Right_Child": {
+                                                                            "Feature": "Hull Angle",
+                                                                            "Bucket": 0.0553805035,
+                                                                            "Left_Child": {
+                                                                                "Value": [
+                                                                                    2.1438916
+                                                                                ]
+                                                                            },
+                                                                            "Right_Child": {
+                                                                                "Value": [
+                                                                                    2.1495311
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        3.2339063
+                                                                    ]
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    2.1515818
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Feature": "Lidar Sensor 7",
+                                                            "Bucket": 0.539949675,
+                                                            "Left_Child": {
+                                                                "Feature": "Lidar Sensor 7",
+                                                                "Bucket": 0.538707065,
+                                                                "Left_Child": {
+                                                                    "Feature": "Hull Angle",
+                                                                    "Bucket": 0.106651412,
+                                                                    "Left_Child": {
+                                                                        "Value": [
+                                                                            2.0073643
+                                                                        ]
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Value": [
+                                                                            1.96945
+                                                                        ]
+                                                                    }
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        1.6823303
+                                                                    ]
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    2.2253866
+                                                                ]
+                                                            }
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            2.6253252
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "Knee Joint 2 Speed",
+                                                    "Bucket": -0.6195902,
+                                                    "Left_Child": {
+                                                        "Feature": "Knee Joint 2 Speed",
+                                                        "Bucket": -0.811177,
+                                                        "Left_Child": {
+                                                            "Feature": "Hull Angle",
+                                                            "Bucket": 0.09353336849999999,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    1.9332495
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    1.8556271
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                1.7083832
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            2.3299947
+                                                        ]
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                1.5978143
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Hull Angle",
+                                        "Bucket": 0.139530115,
+                                        "Left_Child": {
+                                            "Value": [
+                                                2.1376133
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                2.1364343
+                                            ]
+                                        }
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    2.5293927
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Lidar Sensor 2",
+                            "Bucket": 0.35538679500000003,
+                            "Left_Child": {
+                                "Feature": "Lidar Sensor 1",
+                                "Bucket": 0.332676875,
+                                "Left_Child": {
+                                    "Value": [
+                                        3.3532126
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Hip Joint 1 Speed",
+                                    "Bucket": 0.99999935,
+                                    "Left_Child": {
+                                        "Feature": "Hull Angle",
+                                        "Bucket": 0.158678505,
+                                        "Left_Child": {
+                                            "Value": [
+                                                2.9506843
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                2.9993455
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            2.6513271
+                                        ]
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    1.9662329
+                                ]
+                            }
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "Knee Joint 2 Angle",
+                    "Bucket": 0.132467865,
+                    "Left_Child": {
+                        "Feature": "Lidar Sensor 3",
+                        "Bucket": 0.342660415,
+                        "Left_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.159383385,
+                            "Left_Child": {
+                                "Value": [
+                                    1.5055263
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    1.5941229
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": -0.0368754305,
+                            "Left_Child": {
+                                "Value": [
+                                    1.3529062
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    1.3264802
+                                ]
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "Hull Angle",
+                        "Bucket": 0.0818875575,
+                        "Left_Child": {
+                            "Value": [
+                                1.0652173
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                1.0529969
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "Knee Joint 2 Angle",
+            "Bucket": -0.21058345,
+            "Left_Child": {
+                "Value": [
+                    1.9020412
+                ]
+            },
+            "Right_Child": {
+                "Feature": "Hip Joint 2 Speed",
+                "Bucket": 4.666287e-05,
+                "Left_Child": {
+                    "Feature": "Hip Joint 2 Speed",
+                    "Bucket": 6.525078766e-08,
+                    "Left_Child": {
+                        "Feature": "Velocity Y",
+                        "Bucket": -0.11136357999999999,
+                        "Left_Child": {
+                            "Value": [
+                                0.62202704
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "Hull Angular Velocity",
+                            "Bucket": 0.0291260515,
+                            "Left_Child": {
+                                "Feature": "Knee Joint 2 Angle",
+                                "Bucket": -0.040607809999999994,
+                                "Left_Child": {
+                                    "Feature": "Lidar Sensor 5",
+                                    "Bucket": 0.39279841000000004,
+                                    "Left_Child": {
+                                        "Feature": "Hull Angle",
+                                        "Bucket": 0.126018555,
+                                        "Left_Child": {
+                                            "Value": [
+                                                0.3434546
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                0.38023436
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Velocity X",
+                                        "Bucket": 0.5747465,
+                                        "Left_Child": {
+                                            "Feature": "Hull Angle",
+                                            "Bucket": 0.12819962000000001,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    0.8819471
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    0.6768004
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                0.5696921
+                                            ]
+                                        }
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Feature": "Knee Joint 2 Angle",
+                                    "Bucket": 0.257175,
+                                    "Left_Child": {
+                                        "Feature": "Hull Angular Velocity",
+                                        "Bucket": 0.0059452167,
+                                        "Left_Child": {
+                                            "Feature": "Lidar Sensor 3",
+                                            "Bucket": 0.33511859499999996,
+                                            "Left_Child": {
+                                                "Feature": "Lidar Sensor 7",
+                                                "Bucket": 0.5041365,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        -0.13720424
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "Hull Angle",
+                                                    "Bucket": 0.13479511,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            0.802894
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            0.19498606
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Knee Joint 2 Speed",
+                                                "Bucket": 0.99999953,
+                                                "Left_Child": {
+                                                    "Feature": "Knee Joint 1 Speed",
+                                                    "Bucket": -0.7801227,
+                                                    "Left_Child": {
+                                                        "Feature": "Knee Joint 1 Speed",
+                                                        "Bucket": -0.99999997,
+                                                        "Left_Child": {
+                                                            "Feature": "Knee Joint 1 Angle",
+                                                            "Bucket": -0.31330001,
+                                                            "Left_Child": {
+                                                                "Feature": "Lidar Sensor 2",
+                                                                "Bucket": 0.349590305,
+                                                                "Left_Child": {
+                                                                    "Feature": "Hull Angle",
+                                                                    "Bucket": 0.0589315,
+                                                                    "Left_Child": {
+                                                                        "Value": [
+                                                                            -0.0002111122
+                                                                        ]
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Value": [
+                                                                            0.0056738555
+                                                                        ]
+                                                                    }
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        0.063265204
+                                                                    ]
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    0.046864137
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Feature": "Knee Joint 1 Speed",
+                                                            "Bucket": -0.99999987,
+                                                            "Left_Child": {
+                                                                "Feature": "Hull Angle",
+                                                                "Bucket": 0.0578283845,
+                                                                "Left_Child": {
+                                                                    "Value": [
+                                                                        -0.06930679
+                                                                    ]
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        0.2076479
+                                                                    ]
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    0.14506719
+                                                                ]
+                                                            }
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            -0.114734605
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -0.36325473
+                                                    ]
+                                                }
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.3648644
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Knee Joint 2 Speed",
+                                        "Bucket": 0.739962765,
+                                        "Left_Child": {
+                                            "Feature": "Knee Joint 2 Speed",
+                                            "Bucket": -0.132486125,
+                                            "Left_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.1244605,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        0.42977536
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        1.3744586
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Velocity Y",
+                                                "Bucket": -0.0206193165,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        0.52494526
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "Hull Angle",
+                                                    "Bucket": 0.115972413,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            0.77208143
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            0.9193434
+                                                        ]
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Knee Joint 2 Angle",
+                                            "Bucket": 0.39756766,
+                                            "Left_Child": {
+                                                "Feature": "Knee Joint 2 Angle",
+                                                "Bucket": 0.39305636499999996,
+                                                "Left_Child": {
+                                                    "Feature": "Knee Joint 2 Speed",
+                                                    "Bucket": 0.9999999,
+                                                    "Left_Child": {
+                                                        "Feature": "Knee Joint 1 Angle",
+                                                        "Bucket": -0.1794115925,
+                                                        "Left_Child": {
+                                                            "Feature": "Hull Angle",
+                                                            "Bucket": 0.11292988000000001,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    0.3531626
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    0.32192755
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                0.5285873
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            0.40970272
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        0.45685136
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Knee Joint 2 Angle",
+                                                "Bucket": 0.48237026,
+                                                "Left_Child": {
+                                                    "Feature": "Knee Joint 2 Angle",
+                                                    "Bucket": 0.418180675,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            0.3032247
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Feature": "Hip Joint 2 Angle",
+                                                        "Bucket": 1.1288553000000001,
+                                                        "Left_Child": {
+                                                            "Feature": "Hull Angle",
+                                                            "Bucket": 0.041970640499999996,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    0.32842714
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    0.3289159
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                0.3118078
+                                                            ]
+                                                        }
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "Hull Angle",
+                                                    "Bucket": 0.001275118500000002,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            0.21216372
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            0.24397749
+                                                        ]
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.0799877835,
+                                "Left_Child": {
+                                    "Value": [
+                                        1.3201813
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        1.6685886
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "Lidar Sensor 4",
+                        "Bucket": 0.3760712,
+                        "Left_Child": {
+                            "Feature": "Hip Joint 1 Speed",
+                            "Bucket": -1.0004616,
+                            "Left_Child": {
+                                "Feature": "Knee Joint 2 Speed",
+                                "Bucket": 1.0003593,
+                                "Left_Child": {
+                                    "Feature": "Lidar Sensor 7",
+                                    "Bucket": 0.5262492000000001,
+                                    "Left_Child": {
+                                        "Value": [
+                                            0.48369026
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Lidar Sensor 7",
+                                        "Bucket": 0.54802501,
+                                        "Left_Child": {
+                                            "Value": [
+                                                0.5349534
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Knee Joint 1 Speed",
+                                            "Bucket": 0.800200475,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    0.5044519
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.089800792,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        0.51564175
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        0.49957955
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        0.36939335
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.087369835,
+                                "Left_Child": {
+                                    "Value": [
+                                        0.27341717
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        0.28643876
+                                    ]
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Knee Joint 2 Speed",
+                            "Bucket": 0.71259915,
+                            "Left_Child": {
+                                "Value": [
+                                    0.6795392
+                                ]
+                            },
+                            "Right_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.025357974499999998,
+                                "Left_Child": {
+                                    "Value": [
+                                        0.8412006
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        0.75779945
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "Knee Joint 1 Speed",
+                    "Bucket": 0.76570085,
+                    "Left_Child": {
+                        "Feature": "Knee Joint 1 Speed",
+                        "Bucket": 0.593156755,
+                        "Left_Child": {
+                            "Feature": "Lidar Sensor 4",
+                            "Bucket": 0.363478345,
+                            "Left_Child": {
+                                "Value": [
+                                    0.65504926
+                                ]
+                            },
+                            "Right_Child": {
+                                "Feature": "Hip Joint 1 Speed",
+                                "Bucket": -1.0040537,
+                                "Left_Child": {
+                                    "Feature": "Hull Angle",
+                                    "Bucket": 0.115567965,
+                                    "Left_Child": {
+                                        "Value": [
+                                            0.8398852
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            0.92828655
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        1.0225806
+                                    ]
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Lidar Sensor 7",
+                            "Bucket": 0.5131233799999999,
+                            "Left_Child": {
+                                "Value": [
+                                    1.5721626
+                                ]
+                            },
+                            "Right_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.050398065000000006,
+                                "Left_Child": {
+                                    "Value": [
+                                        1.2407069
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        1.2980902
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            0.17450558
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "leg2knee": {
+        "Feature": "Knee Joint 2 Angle",
+        "Bucket": -0.039043546,
+        "Left_Child": {
+            "Feature": "Lidar Sensor 1",
+            "Bucket": 0.32270653000000005,
+            "Left_Child": {
+                "Feature": "Lidar Sensor 7",
+                "Bucket": 0.49281056,
+                "Left_Child": {
+                    "Value": [
+                        1.7472422
+                    ]
+                },
+                "Right_Child": {
+                    "Feature": "Lidar Sensor 1",
+                    "Bucket": 0.30979194,
+                    "Left_Child": {
+                        "Value": [
+                            0.29467112
+                        ]
+                    },
+                    "Right_Child": {
+                        "Feature": "Lidar Sensor 1",
+                        "Bucket": 0.315841975,
+                        "Left_Child": {
+                            "Value": [
+                                -1.1600208
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.111864353,
+                            "Left_Child": {
+                                "Value": [
+                                    -0.2715176
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.19763342
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "Right_Child": {
+                "Feature": "Hip Joint 2 Speed",
+                "Bucket": 6.94394105e-06,
+                "Left_Child": {
+                    "Feature": "Lidar Sensor 1",
+                    "Bucket": 0.328566105,
+                    "Left_Child": {
+                        "Feature": "Lidar Sensor 4",
+                        "Bucket": 0.36524234499999997,
+                        "Left_Child": {
+                            "Value": [
+                                0.44003528
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.106554405,
+                            "Left_Child": {
+                                "Value": [
+                                    1.0309279
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    1.1255689
+                                ]
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "Lidar Sensor 1",
+                        "Bucket": 0.33520540499999996,
+                        "Left_Child": {
+                            "Feature": "Lidar Sensor 5",
+                            "Bucket": 0.39281525,
+                            "Left_Child": {
+                                "Feature": "Lidar Sensor 1",
+                                "Bucket": 0.334153845,
+                                "Left_Child": {
+                                    "Feature": "Hull Angle",
+                                    "Bucket": 0.147501225,
+                                    "Left_Child": {
+                                        "Value": [
+                                            0.00064713135
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            1.6405368
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        1.7290369
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.093512612,
+                                "Left_Child": {
+                                    "Value": [
+                                        2.9627771
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        2.4489024
+                                    ]
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Hip Joint 1 Angle",
+                            "Bucket": 0.244896205,
+                            "Left_Child": {
+                                "Feature": "Lidar Sensor 1",
+                                "Bucket": 0.33892621,
+                                "Left_Child": {
+                                    "Value": [
+                                        0.99877065
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Knee Joint 2 Angle",
+                                    "Bucket": -0.11439115,
+                                    "Left_Child": {
+                                        "Value": [
+                                            1.6391933
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Lidar Sensor 8",
+                                        "Bucket": 0.7062745800000001,
+                                        "Left_Child": {
+                                            "Feature": "Hip Joint 1 Speed",
+                                            "Bucket": 1.0000008999999999,
+                                            "Left_Child": {
+                                                "Feature": "Hip Joint 1 Speed",
+                                                "Bucket": 0.99999925,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        0.75312847
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "Hull Angle",
+                                                    "Bucket": 0.18626205499999998,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            0.10704255
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            0.24408844
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    0.47045624
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.06125841
+                                            ]
+                                        }
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.103048555,
+                                "Left_Child": {
+                                    "Value": [
+                                        1.0050488
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        0.99734896
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "Hull Angle",
+                    "Bucket": 0.096696595,
+                    "Left_Child": {
+                        "Value": [
+                            2.5405023
+                        ]
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            2.3403761
+                        ]
+                    }
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "Knee Joint 2 Angle",
+            "Bucket": 0.40747717,
+            "Left_Child": {
+                "Feature": "Knee Joint 2 Speed",
+                "Bucket": 1.04473255,
+                "Left_Child": {
+                    "Feature": "Leg 2 Ground Contact Flag",
+                    "Bucket": 0.5,
+                    "Left_Child": {
+                        "Feature": "Hip Joint 2 Speed",
+                        "Bucket": 2.1614134e-05,
+                        "Left_Child": {
+                            "Feature": "Knee Joint 2 Speed",
+                            "Bucket": 0.9999994,
+                            "Left_Child": {
+                                "Feature": "Lidar Sensor 9",
+                                "Bucket": 0.795373085,
+                                "Left_Child": {
+                                    "Value": [
+                                        -1.998563
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Velocity Y",
+                                    "Bucket": -0.055146688,
+                                    "Left_Child": {
+                                        "Feature": "Hull Angle",
+                                        "Bucket": 0.1349928165,
+                                        "Left_Child": {
+                                            "Value": [
+                                                -1.520112
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -1.7277048
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Hip Joint 2 Speed",
+                                        "Bucket": 5.2386896e-10,
+                                        "Left_Child": {
+                                            "Feature": "Hip Joint 2 Speed",
+                                            "Bucket": -1.2591481210000001e-06,
+                                            "Left_Child": {
+                                                "Feature": "Lidar Sensor 1",
+                                                "Bucket": 0.345923695,
+                                                "Left_Child": {
+                                                    "Feature": "Lidar Sensor 1",
+                                                    "Bucket": 0.33674021,
+                                                    "Left_Child": {
+                                                        "Feature": "Knee Joint 2 Angle",
+                                                        "Bucket": 0.395879925,
+                                                        "Left_Child": {
+                                                            "Feature": "Hull Angle",
+                                                            "Bucket": 0.130431345,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    -0.7537174
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    -0.7507165
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                -0.598329
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            -0.41808128
+                                                        ]
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -1.040079
+                                                    ]
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Velocity Y",
+                                                "Bucket": -0.00834355925,
+                                                "Left_Child": {
+                                                    "Feature": "Velocity Y",
+                                                    "Bucket": -0.014812496500000001,
+                                                    "Left_Child": {
+                                                        "Feature": "Hip Joint 1 Speed",
+                                                        "Bucket": 0.66961915,
+                                                        "Left_Child": {
+                                                            "Feature": "Hip Joint 1 Speed",
+                                                            "Bucket": -1.1167158499999998,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    0.08828297
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Feature": "Hull Angle",
+                                                                "Bucket": 0.0208179305,
+                                                                "Left_Child": {
+                                                                    "Value": [
+                                                                        -0.41919672
+                                                                    ]
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        -0.21797848
+                                                                    ]
+                                                                }
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                0.5920649
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Feature": "Velocity Y",
+                                                        "Bucket": -0.011648809999999999,
+                                                        "Left_Child": {
+                                                            "Value": [
+                                                                -0.7899769
+                                                            ]
+                                                        },
+                                                        "Right_Child": {
+                                                            "Feature": "Hull Angle",
+                                                            "Bucket": 0.052152591,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    -1.4185156
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    -1.1104829
+                                                                ]
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "Hull Angular Velocity",
+                                                    "Bucket": 0.01160473475,
+                                                    "Left_Child": {
+                                                        "Feature": "Lidar Sensor 2",
+                                                        "Bucket": 0.34559023499999997,
+                                                        "Left_Child": {
+                                                            "Feature": "Velocity Y",
+                                                            "Bucket": 0.018420554999999998,
+                                                            "Left_Child": {
+                                                                "Feature": "Hull Angular Velocity",
+                                                                "Bucket": -0.0231632625,
+                                                                "Left_Child": {
+                                                                    "Feature": "Hull Angle",
+                                                                    "Bucket": 0.055791753,
+                                                                    "Left_Child": {
+                                                                        "Value": [
+                                                                            0.14464813
+                                                                        ]
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Value": [
+                                                                            0.17908812
+                                                                        ]
+                                                                    }
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Feature": "Hull Angle",
+                                                                    "Bucket": 0.107215423,
+                                                                    "Left_Child": {
+                                                                        "Value": [
+                                                                            0.09451714
+                                                                        ]
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Value": [
+                                                                            0.07698807
+                                                                        ]
+                                                                    }
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Feature": "Hull Angle",
+                                                                "Bucket": 0.089356754,
+                                                                "Left_Child": {
+                                                                    "Value": [
+                                                                        -0.16622542
+                                                                    ]
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        -0.0950011
+                                                                    ]
+                                                                }
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Feature": "Lidar Sensor 5",
+                                                            "Bucket": 0.422071145,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    -0.50565225
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Feature": "Hull Angle",
+                                                                "Bucket": 0.053331051,
+                                                                "Left_Child": {
+                                                                    "Value": [
+                                                                        -0.4061478
+                                                                    ]
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        -0.31166652
+                                                                    ]
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Feature": "Hip Joint 1 Speed",
+                                                        "Bucket": -1.4140437000000001,
+                                                        "Left_Child": {
+                                                            "Feature": "Hull Angle",
+                                                            "Bucket": 0.18408130499999997,
+                                                            "Left_Child": {
+                                                                "Value": [
+                                                                    0.913385
+                                                                ]
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    1.1609945
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                0.657667
+                                                            ]
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Hip Joint 1 Speed",
+                                            "Bucket": -0.19802431999999998,
+                                            "Left_Child": {
+                                                "Feature": "Hip Joint 1 Speed",
+                                                "Bucket": -1.02249045,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        -0.5378988
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "Hull Angle",
+                                                    "Bucket": 0.07776156000000001,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            -0.40580073
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            -0.402185
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    -0.7614301
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Knee Joint 2 Speed",
+                                "Bucket": 0.99999948,
+                                "Left_Child": {
+                                    "Feature": "Hull Angle",
+                                    "Bucket": 0.145918692,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -1.233788
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Value": [
+                                            -1.6949141
+                                        ]
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Feature": "Knee Joint 1 Speed",
+                                    "Bucket": -0.4999999,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -2.8189812
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Knee Joint 2 Speed",
+                                        "Bucket": 0.9999995500000001,
+                                        "Left_Child": {
+                                            "Value": [
+                                                0.85676986
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Feature": "Knee Joint 2 Speed",
+                                            "Bucket": 0.99999965,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    -1.1342165
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Knee Joint 2 Speed",
+                                                "Bucket": 1.00016785,
+                                                "Left_Child": {
+                                                    "Feature": "Knee Joint 2 Speed",
+                                                    "Bucket": 1.0000006,
+                                                    "Left_Child": {
+                                                        "Feature": "Knee Joint 1 Angle",
+                                                        "Bucket": -0.137586,
+                                                        "Left_Child": {
+                                                            "Feature": "Knee Joint 1 Angle",
+                                                            "Bucket": -0.313173535,
+                                                            "Left_Child": {
+                                                                "Feature": "Lidar Sensor 7",
+                                                                "Bucket": 0.5453526049999999,
+                                                                "Left_Child": {
+                                                                    "Feature": "Hull Angle",
+                                                                    "Bucket": 0.13479511,
+                                                                    "Left_Child": {
+                                                                        "Value": [
+                                                                            0.6236278
+                                                                        ]
+                                                                    },
+                                                                    "Right_Child": {
+                                                                        "Value": [
+                                                                            -0.2568131
+                                                                        ]
+                                                                    }
+                                                                },
+                                                                "Right_Child": {
+                                                                    "Value": [
+                                                                        -0.6696114
+                                                                    ]
+                                                                }
+                                                            },
+                                                            "Right_Child": {
+                                                                "Value": [
+                                                                    -0.45920062
+                                                                ]
+                                                            }
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                -0.30139735
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Right_Child": {
+                                                        "Feature": "Hull Angle",
+                                                        "Bucket": 0.0875696895,
+                                                        "Left_Child": {
+                                                            "Value": [
+                                                                0.64752805
+                                                            ]
+                                                        },
+                                                        "Right_Child": {
+                                                            "Value": [
+                                                                -0.5022352
+                                                            ]
+                                                        }
+                                                    }
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -0.709747
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Lidar Sensor 1",
+                            "Bucket": 0.330710635,
+                            "Left_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.14317298,
+                                "Left_Child": {
+                                    "Value": [
+                                        -0.1433324
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -0.4926756
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Feature": "Velocity Y",
+                                "Bucket": 0.038732234,
+                                "Left_Child": {
+                                    "Feature": "Hip Joint 1 Speed",
+                                    "Bucket": -1.00347235,
+                                    "Left_Child": {
+                                        "Feature": "Hip Joint 1 Speed",
+                                        "Bucket": -1.00498765,
+                                        "Left_Child": {
+                                            "Feature": "Hip Joint 1 Speed",
+                                            "Bucket": -1.3030068,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    0.3593359
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Hip Joint 1 Speed",
+                                                "Bucket": -1.1497552,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        0.67798865
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Feature": "Hull Angle",
+                                                    "Bucket": 0.115567965,
+                                                    "Left_Child": {
+                                                        "Value": [
+                                                            0.6094131
+                                                        ]
+                                                    },
+                                                    "Right_Child": {
+                                                        "Value": [
+                                                            0.49831194
+                                                        ]
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                0.24033648
+                                            ]
+                                        }
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Lidar Sensor 8",
+                                        "Bucket": 0.65723877,
+                                        "Left_Child": {
+                                            "Feature": "Hull Angle",
+                                            "Bucket": 0.0872004,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    0.6007244
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Value": [
+                                                    0.6650108
+                                                ]
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                0.5683443
+                                            ]
+                                        }
+                                    }
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        1.6223416
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "Hull Angular Velocity",
+                        "Bucket": -0.009118436,
+                        "Left_Child": {
+                            "Feature": "Knee Joint 1 Speed",
+                            "Bucket": -0.999989955,
+                            "Left_Child": {
+                                "Feature": "Knee Joint 1 Speed",
+                                "Bucket": -0.99999997,
+                                "Left_Child": {
+                                    "Value": [
+                                        -2.7567298
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Knee Joint 1 Speed",
+                                    "Bucket": -0.99999987,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -3.0865092
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Hull Angle",
+                                        "Bucket": 0.072991865,
+                                        "Left_Child": {
+                                            "Value": [
+                                                -2.5549505
+                                            ]
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -2.9246976
+                                            ]
+                                        }
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -2.5321417
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Knee Joint 2 Angle",
+                            "Bucket": 0.166402575,
+                            "Left_Child": {
+                                "Feature": "Lidar Sensor 8",
+                                "Bucket": 0.5865749849999999,
+                                "Left_Child": {
+                                    "Value": [
+                                        -1.8971261
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Feature": "Lidar Sensor 8",
+                                    "Bucket": 0.63043821,
+                                    "Left_Child": {
+                                        "Value": [
+                                            -1.0069025
+                                        ]
+                                    },
+                                    "Right_Child": {
+                                        "Feature": "Hip Joint 2 Angle",
+                                        "Bucket": 1.1331457999999999,
+                                        "Left_Child": {
+                                            "Feature": "Velocity X",
+                                            "Bucket": 0.55048233,
+                                            "Left_Child": {
+                                                "Value": [
+                                                    -0.8974125
+                                                ]
+                                            },
+                                            "Right_Child": {
+                                                "Feature": "Hull Angle",
+                                                "Bucket": 0.016913324999999993,
+                                                "Left_Child": {
+                                                    "Value": [
+                                                        -0.51088136
+                                                    ]
+                                                },
+                                                "Right_Child": {
+                                                    "Value": [
+                                                        -0.5306727
+                                                    ]
+                                                }
+                                            }
+                                        },
+                                        "Right_Child": {
+                                            "Value": [
+                                                -0.115644455
+                                            ]
+                                        }
+                                    }
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -1.6806098
+                                ]
+                            }
+                        }
+                    }
+                },
+                "Right_Child": {
+                    "Value": [
+                        1.887864
+                    ]
+                }
+            },
+            "Right_Child": {
+                "Feature": "Knee Joint 1 Speed",
+                "Bucket": 0.72865245,
+                "Left_Child": {
+                    "Feature": "Hull Angle",
+                    "Bucket": 0.047242822500000003,
+                    "Left_Child": {
+                        "Value": [
+                            -0.68575984
+                        ]
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            -0.70745665
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "Knee Joint 2 Angle",
+                    "Bucket": 0.4398697,
+                    "Left_Child": {
+                        "Value": [
+                            -1.0976797
+                        ]
+                    },
+                    "Right_Child": {
+                        "Feature": "Knee Joint 2 Angle",
+                        "Bucket": 0.48554703499999996,
+                        "Left_Child": {
+                            "Feature": "Knee Joint 2 Angle",
+                            "Bucket": 0.47545209499999996,
+                            "Left_Child": {
+                                "Feature": "Hull Angle",
+                                "Bucket": 0.0222898635,
+                                "Left_Child": {
+                                    "Value": [
+                                        -1.0628195
+                                    ]
+                                },
+                                "Right_Child": {
+                                    "Value": [
+                                        -1.1171749
+                                    ]
+                                }
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.9585297
+                                ]
+                            }
+                        },
+                        "Right_Child": {
+                            "Feature": "Hull Angle",
+                            "Bucket": 0.001275118500000002,
+                            "Left_Child": {
+                                "Value": [
+                                    -1.2645624
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -1.2835754
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

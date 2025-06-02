@@ -1,0 +1,346 @@
+{
+    "leg1hip": {
+        "Feature": "Lidar Sensor 4",
+        "Bucket": 0.38006021,
+        "Left_Child": {
+            "Feature": "Velocity X",
+            "Bucket": 0.6389175,
+            "Left_Child": {
+                "Feature": "Hip Joint 2 Angle",
+                "Bucket": 1.1273769,
+                "Left_Child": {
+                    "Feature": "Hip Joint 2 Angle",
+                    "Bucket": 1.1192281,
+                    "Left_Child": {
+                        "Feature": "Hip Joint 2 Angle",
+                        "Bucket": 1.11076125,
+                        "Left_Child": {
+                            "Value": [
+                                2.018541
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                2.625779
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            3.4075658
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "Velocity X",
+                    "Bucket": 0.54760043,
+                    "Left_Child": {
+                        "Feature": "Hip Joint 2 Angle",
+                        "Bucket": 1.1303215,
+                        "Left_Child": {
+                            "Value": [
+                                1.4179295
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                1.3632815
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            1.5745907
+                        ]
+                    }
+                }
+            },
+            "Right_Child": {
+                "Value": [
+                    0.12518597
+                ]
+            }
+        },
+        "Right_Child": {
+            "Feature": "Lidar Sensor 5",
+            "Bucket": 0.42996636,
+            "Left_Child": {
+                "Feature": "Lidar Sensor 5",
+                "Bucket": 0.419168905,
+                "Left_Child": {
+                    "Value": [
+                        -2.1594074
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        -1.9842172
+                    ]
+                }
+            },
+            "Right_Child": {
+                "Value": [
+                    -0.5371917
+                ]
+            }
+        }
+    },
+    "leg1knee": {
+        "Feature": "Lidar Sensor 5",
+        "Bucket": 0.40991875499999997,
+        "Left_Child": {
+            "Feature": "Knee Joint 2 Speed",
+            "Bucket": 0.44964684,
+            "Left_Child": {
+                "Feature": "Hip Joint 2 Angle",
+                "Bucket": 1.127599,
+                "Left_Child": {
+                    "Feature": "Hip Joint 2 Angle",
+                    "Bucket": 1.1192281,
+                    "Left_Child": {
+                        "Feature": "Hip Joint 2 Angle",
+                        "Bucket": 1.11076125,
+                        "Left_Child": {
+                            "Value": [
+                                -0.2644446
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.6912741
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            -1.2099421
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Value": [
+                        0.14727664
+                    ]
+                }
+            },
+            "Right_Child": {
+                "Feature": "Hip Joint 1 Speed",
+                "Bucket": 1.00000045,
+                "Left_Child": {
+                    "Value": [
+                        1.1591396
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        0.9536966
+                    ]
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "Knee Joint 1 Angle",
+            "Bucket": -0.46077776000000004,
+            "Left_Child": {
+                "Feature": "Lidar Sensor 5",
+                "Bucket": 0.419168905,
+                "Left_Child": {
+                    "Value": [
+                        4.128747
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        4.2833905
+                    ]
+                }
+            },
+            "Right_Child": {
+                "Feature": "Lidar Sensor 5",
+                "Bucket": 0.423748105,
+                "Left_Child": {
+                    "Value": [
+                        3.2770545
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        2.9987924
+                    ]
+                }
+            }
+        }
+    },
+    "leg2hip": {
+        "Feature": "Lidar Sensor 8",
+        "Bucket": 0.659635455,
+        "Left_Child": {
+            "Feature": "Velocity X",
+            "Bucket": 0.505530535,
+            "Left_Child": {
+                "Feature": "Hip Joint 2 Angle",
+                "Bucket": 1.11076125,
+                "Left_Child": {
+                    "Value": [
+                        1.7094347
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        1.4781785
+                    ]
+                }
+            },
+            "Right_Child": {
+                "Feature": "Leg 1 Ground Contact Flag",
+                "Bucket": 0.5,
+                "Left_Child": {
+                    "Feature": "Lidar Sensor 5",
+                    "Bucket": 0.404115275,
+                    "Left_Child": {
+                        "Value": [
+                            0.030542944
+                        ]
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            0.06813173
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "Knee Joint 2 Speed",
+                    "Bucket": 0.84680426,
+                    "Left_Child": {
+                        "Value": [
+                            0.4703678
+                        ]
+                    },
+                    "Right_Child": {
+                        "Feature": "Knee Joint 2 Speed",
+                        "Bucket": 0.99999998,
+                        "Left_Child": {
+                            "Value": [
+                                0.87282014
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                0.7843571
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "Lidar Sensor 9",
+            "Bucket": 0.91563505,
+            "Left_Child": {
+                "Value": [
+                    2.770003
+                ]
+            },
+            "Right_Child": {
+                "Feature": "Velocity X",
+                "Bucket": 0.6326898,
+                "Left_Child": {
+                    "Value": [
+                        1.8294295
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        2.198706
+                    ]
+                }
+            }
+        }
+    },
+    "leg2knee": {
+        "Feature": "Lidar Sensor 8",
+        "Bucket": 0.659635455,
+        "Left_Child": {
+            "Feature": "Hull Angular Velocity",
+            "Bucket": -0.031102837499999998,
+            "Left_Child": {
+                "Value": [
+                    -2.9177794
+                ]
+            },
+            "Right_Child": {
+                "Feature": "Hip Joint 2 Angle",
+                "Bucket": 1.11076125,
+                "Left_Child": {
+                    "Feature": "Hip Joint 2 Angle",
+                    "Bucket": 1.09744435,
+                    "Left_Child": {
+                        "Value": [
+                            0.22918934
+                        ]
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            0.29900774
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Feature": "Lidar Sensor 5",
+                    "Bucket": 0.39810106,
+                    "Left_Child": {
+                        "Feature": "Knee Joint 2 Speed",
+                        "Bucket": -0.0016425700000000099,
+                        "Left_Child": {
+                            "Value": [
+                                -0.19284794
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.2877028
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Feature": "Lidar Sensor 5",
+                        "Bucket": 0.40991875499999997,
+                        "Left_Child": {
+                            "Value": [
+                                -0.7493449
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -0.5241992
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Right_Child": {
+            "Feature": "Lidar Sensor 9",
+            "Bucket": 0.91563505,
+            "Left_Child": {
+                "Value": [
+                    1.9142239
+                ]
+            },
+            "Right_Child": {
+                "Feature": "Lidar Sensor 5",
+                "Bucket": 0.426557225,
+                "Left_Child": {
+                    "Value": [
+                        1.4407891
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        1.2686033
+                    ]
+                }
+            }
+        }
+    }
+}

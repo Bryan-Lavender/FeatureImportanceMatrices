@@ -1,0 +1,73 @@
+{
+    "Feature": "angle_vel",
+    "Bucket": -0.015031180500000001,
+    "Left_Child": {
+        "Feature": "angle",
+        "Bucket": 0.0001961480041,
+        "Left_Child": {
+            "Value": 0
+        },
+        "Right_Child": {
+            "Feature": "angle_vel",
+            "Bucket": -0.108132635,
+            "Left_Child": {
+                "Value": 0
+            },
+            "Right_Child": {
+                "Feature": "x",
+                "Bucket": -0.43023502,
+                "Left_Child": {
+                    "Feature": "angle_vel",
+                    "Bucket": -0.0470887085,
+                    "Left_Child": {
+                        "Feature": "angle_vel",
+                        "Bucket": -0.055238737499999996,
+                        "Left_Child": {
+                            "Feature": "angle_vel",
+                            "Bucket": -0.086875693,
+                            "Left_Child": {
+                                "Value": 1
+                            },
+                            "Right_Child": {
+                                "Value": 0
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": 1
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": 0
+                    }
+                },
+                "Right_Child": {
+                    "Value": 0
+                }
+            }
+        }
+    },
+    "Right_Child": {
+        "Feature": "angle_vel",
+        "Bucket": 0.106903753,
+        "Left_Child": {
+            "Feature": "angle_vel",
+            "Bucket": 0.063548245,
+            "Left_Child": {
+                "Value": 1
+            },
+            "Right_Child": {
+                "Feature": "x",
+                "Bucket": -0.36976164499999997,
+                "Left_Child": {
+                    "Value": 1
+                },
+                "Right_Child": {
+                    "Value": 0
+                }
+            }
+        },
+        "Right_Child": {
+            "Value": 1
+        }
+    }
+}

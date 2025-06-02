@@ -1,0 +1,80 @@
+{
+    "Feature": "Knee Joint 1 Angle",
+    "Bucket": -0.38184762,
+    "Left_Child": {
+        "Feature": "Leg 1 Ground Contact Flag",
+        "Bucket": 0.5,
+        "Left_Child": {
+            "Value": [
+                0.09172253000000002,
+                0.9071548825000001,
+                0.738972826,
+                -0.19281086750000004
+            ]
+        },
+        "Right_Child": {
+            "Feature": "Knee Joint 1 Angle",
+            "Bucket": -0.49198317,
+            "Left_Child": {
+                "Feature": "Lidar Sensor 5",
+                "Bucket": 0.399288205,
+                "Left_Child": {
+                    "Value": [
+                        -1.7856989,
+                        3.7247403,
+                        2.8564303,
+                        2.1380477
+                    ]
+                },
+                "Right_Child": {
+                    "Feature": "Knee Joint 1 Angle",
+                    "Bucket": -0.57272714,
+                    "Left_Child": {
+                        "Value": [
+                            -1.4590781,
+                            3.5821042,
+                            0.76003873,
+                            0.37548566
+                        ]
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            -0.7179855,
+                            3.3122628,
+                            0.49277282,
+                            0.4401146
+                        ]
+                    }
+                }
+            },
+            "Right_Child": {
+                "Value": [
+                    -1.2789584,
+                    5.6925325,
+                    1.2238717,
+                    1.1923807
+                ]
+            }
+        }
+    },
+    "Right_Child": {
+        "Feature": "Hip Joint 2 Angle",
+        "Bucket": 1.1226272499999999,
+        "Left_Child": {
+            "Value": [
+                2.5833528,
+                -0.34685993,
+                -0.09445925,
+                -1.9611051
+            ]
+        },
+        "Right_Child": {
+            "Value": [
+                2.738806,
+                -0.91258293,
+                1.3417807,
+                -0.68427414
+            ]
+        }
+    }
+}

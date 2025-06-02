@@ -1,0 +1,94 @@
+{
+    "leg1hip": {
+        "Feature": "Hull Angle",
+        "Bucket": 0.1487617939710617,
+        "Left_Child": {
+            "Feature": "Hull Angle",
+            "Bucket": 0.09108471870422363,
+            "Left_Child": {
+                "Value": [
+                    1.1040501594543457
+                ]
+            },
+            "Right_Child": {
+                "Value": [
+                    1.3544838428497314
+                ]
+            }
+        },
+        "Right_Child": {
+            "Value": [
+                0.4648458659648895
+            ]
+        }
+    },
+    "leg1knee": {
+        "Feature": "Hull Angular Velocity",
+        "Bucket": 0.012958299368619919,
+        "Left_Child": {
+            "Value": [
+                0.3707647919654846
+            ]
+        },
+        "Right_Child": {
+            "Feature": "Hull Angle",
+            "Bucket": 0.13798488676548004,
+            "Left_Child": {
+                "Value": [
+                    1.160693883895874
+                ]
+            },
+            "Right_Child": {
+                "Value": [
+                    0.8383796811103821
+                ]
+            }
+        }
+    },
+    "leg2hip": {
+        "Feature": "Hull Angle",
+        "Bucket": 0.1487617939710617,
+        "Left_Child": {
+            "Feature": "Hull Angle",
+            "Bucket": 0.09108471870422363,
+            "Left_Child": {
+                "Value": [
+                    -0.10584212839603424
+                ]
+            },
+            "Right_Child": {
+                "Value": [
+                    -0.47117406129837036
+                ]
+            }
+        },
+        "Right_Child": {
+            "Value": [
+                2.973672866821289
+            ]
+        }
+    },
+    "leg2knee": {
+        "Feature": "Hull Angle",
+        "Bucket": 0.1487617939710617,
+        "Left_Child": {
+            "Feature": "Hull Angle",
+            "Bucket": 0.09108471870422363,
+            "Left_Child": {
+                "Value": [
+                    -1.1069062948226929
+                ]
+            },
+            "Right_Child": {
+                "Value": [
+                    -1.405706763267517
+                ]
+            }
+        },
+        "Right_Child": {
+            "Value": [
+                2.121049404144287
+            ]
+        }
+    }
+}

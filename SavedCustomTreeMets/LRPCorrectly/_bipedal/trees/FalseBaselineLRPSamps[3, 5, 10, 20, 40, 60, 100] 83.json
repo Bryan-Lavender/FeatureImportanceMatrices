@@ -1,0 +1,116 @@
+{
+    "Feature": "Hip Joint 1 Angle",
+    "Bucket": -0.0562229845,
+    "Left_Child": {
+        "Feature": "Velocity X",
+        "Bucket": 0.639739305,
+        "Left_Child": {
+            "Feature": "Hip Joint 1 Speed",
+            "Bucket": -1.10348348,
+            "Left_Child": {
+                "Value": [
+                    0.5446927,
+                    -0.2989736,
+                    1.8880613,
+                    0.09291567
+                ]
+            },
+            "Right_Child": {
+                "Feature": "Hull Angle",
+                "Bucket": 0.16598363700000002,
+                "Left_Child": {
+                    "Feature": "Hull Angle",
+                    "Bucket": 0.061321803999999994,
+                    "Left_Child": {
+                        "Value": [
+                            2.4876192,
+                            -0.73852044,
+                            2.1253824,
+                            0.21880513
+                        ]
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            2.307539,
+                            -0.9071665,
+                            1.6924015,
+                            0.45002794
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Value": [
+                        2.410456,
+                        -1.129434,
+                        0.6158984,
+                        -0.9584231
+                    ]
+                }
+            }
+        },
+        "Right_Child": {
+            "Value": [
+                0.6843881,
+                3.7294023,
+                0.41614413,
+                -0.40292886
+            ]
+        }
+    },
+    "Right_Child": {
+        "Feature": "Hull Angle",
+        "Bucket": 0.008720543,
+        "Left_Child": {
+            "Value": [
+                0.23299718,
+                0.58970195,
+                0.29922462,
+                -0.015937518
+            ]
+        },
+        "Right_Child": {
+            "Feature": "Velocity X",
+            "Bucket": 0.6130285,
+            "Left_Child": {
+                "Feature": "Hull Angular Velocity",
+                "Bucket": 0.013336209,
+                "Left_Child": {
+                    "Value": [
+                        -1.209338,
+                        4.870104,
+                        0.71993154,
+                        0.6663409
+                    ]
+                },
+                "Right_Child": {
+                    "Feature": "Hull Angle",
+                    "Bucket": 0.08739263,
+                    "Left_Child": {
+                        "Value": [
+                            -2.7318811,
+                            4.7140527,
+                            1.6278951,
+                            1.3929223
+                        ]
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            -2.3896277,
+                            5.7329135,
+                            1.6174014,
+                            1.3637456
+                        ]
+                    }
+                }
+            },
+            "Right_Child": {
+                "Value": [
+                    -0.84367704,
+                    3.882849,
+                    2.1643257,
+                    1.0055032
+                ]
+            }
+        }
+    }
+}

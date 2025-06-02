@@ -1,0 +1,31 @@
+{
+    "Feature": "vel y",
+    "Bucket": -0.2141488641500473,
+    "Left_Child": {
+        "Feature": "y",
+        "Bucket": 1.1909682750701904,
+        "Left_Child": {
+            "Value": 2
+        },
+        "Right_Child": {
+            "Value": 0
+        }
+    },
+    "Right_Child": {
+        "Feature": "vel x",
+        "Bucket": -0.17498426139354706,
+        "Left_Child": {
+            "Value": 1
+        },
+        "Right_Child": {
+            "Feature": "vel x",
+            "Bucket": 0.12555624544620514,
+            "Left_Child": {
+                "Value": 3
+            },
+            "Right_Child": {
+                "Value": 0
+            }
+        }
+    }
+}

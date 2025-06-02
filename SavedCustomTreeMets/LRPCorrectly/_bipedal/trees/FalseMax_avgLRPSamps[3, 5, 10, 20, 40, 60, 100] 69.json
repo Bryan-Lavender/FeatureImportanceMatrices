@@ -1,0 +1,80 @@
+{
+    "Feature": "Leg 2 Ground Contact Flag",
+    "Bucket": 0.5,
+    "Left_Child": {
+        "Feature": "Lidar Sensor 9",
+        "Bucket": 0.88285,
+        "Left_Child": {
+            "Value": [
+                3.2924402,
+                -0.22911453,
+                1.8880568,
+                -0.23812586
+            ]
+        },
+        "Right_Child": {
+            "Feature": "Hip Joint 1 Speed",
+            "Bucket": -0.965809485,
+            "Left_Child": {
+                "Feature": "Hip Joint 2 Angle",
+                "Bucket": 1.1032818500000001,
+                "Left_Child": {
+                    "Value": [
+                        -2.7920234,
+                        5.220374,
+                        1.3201813,
+                        0.85676986
+                    ]
+                },
+                "Right_Child": {
+                    "Feature": "Lidar Sensor 9",
+                    "Bucket": 0.987362385,
+                    "Left_Child": {
+                        "Feature": "Hip Joint 2 Angle",
+                        "Bucket": 1.1219518499999999,
+                        "Left_Child": {
+                            "Value": [
+                                -0.9563062,
+                                4.540102,
+                                0.7394488,
+                                0.36823496
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                -1.7365155,
+                                5.201135,
+                                1.0881677,
+                                0.82427895
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            -1.1601355,
+                            3.6861494,
+                            0.6729209,
+                            -0.24660574
+                        ]
+                    }
+                }
+            },
+            "Right_Child": {
+                "Value": [
+                    -2.999984,
+                    5.306245,
+                    3.3532126,
+                    2.9627771
+                ]
+            }
+        }
+    },
+    "Right_Child": {
+        "Value": [
+            0.8465444,
+            0.6409878175,
+            1.3743423,
+            0.50208026
+        ]
+    }
+}

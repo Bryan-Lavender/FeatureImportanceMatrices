@@ -1,0 +1,31 @@
+{
+    "Feature": "x",
+    "Bucket": 0.08446851372718811,
+    "Left_Child": {
+        "Feature": "y",
+        "Bucket": -0.010131265968084335,
+        "Left_Child": {
+            "Value": 3
+        },
+        "Right_Child": {
+            "Feature": "vel x",
+            "Bucket": -0.2066863775253296,
+            "Left_Child": {
+                "Feature": "x",
+                "Bucket": -0.02087864652276039,
+                "Left_Child": {
+                    "Value": 3
+                },
+                "Right_Child": {
+                    "Value": 1
+                }
+            },
+            "Right_Child": {
+                "Value": 1
+            }
+        }
+    },
+    "Right_Child": {
+        "Value": 2
+    }
+}

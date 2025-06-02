@@ -1,0 +1,66 @@
+{
+    "Feature": "angle_vel",
+    "Bucket": 0.0301506235,
+    "Left_Child": {
+        "Feature": "angle_vel",
+        "Bucket": -0.162111245,
+        "Left_Child": {
+            "Value": 0
+        },
+        "Right_Child": {
+            "Feature": "angle_vel",
+            "Bucket": -0.0189906255,
+            "Left_Child": {
+                "Feature": "vel",
+                "Bucket": -0.09235080999999999,
+                "Left_Child": {
+                    "Feature": "angle_vel",
+                    "Bucket": -0.10135259299999999,
+                    "Left_Child": {
+                        "Feature": "vel",
+                        "Bucket": -0.259412985,
+                        "Left_Child": {
+                            "Feature": "vel",
+                            "Bucket": -0.38196764,
+                            "Left_Child": {
+                                "Value": 0
+                            },
+                            "Right_Child": {
+                                "Value": 1
+                            }
+                        },
+                        "Right_Child": {
+                            "Value": 0
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": 0
+                    }
+                },
+                "Right_Child": {
+                    "Value": 1
+                }
+            },
+            "Right_Child": {
+                "Feature": "angle",
+                "Bucket": -0.0296199655,
+                "Left_Child": {
+                    "Feature": "vel",
+                    "Bucket": -0.0875456365,
+                    "Left_Child": {
+                        "Value": 0
+                    },
+                    "Right_Child": {
+                        "Value": 1
+                    }
+                },
+                "Right_Child": {
+                    "Value": 1
+                }
+            }
+        }
+    },
+    "Right_Child": {
+        "Value": 1
+    }
+}

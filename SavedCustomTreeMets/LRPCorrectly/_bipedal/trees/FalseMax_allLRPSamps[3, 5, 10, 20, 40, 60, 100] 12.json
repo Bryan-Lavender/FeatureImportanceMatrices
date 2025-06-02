@@ -1,0 +1,116 @@
+{
+    "Feature": "Knee Joint 1 Speed",
+    "Bucket": -0.50000005,
+    "Left_Child": {
+        "Feature": "Hip Joint 2 Angle",
+        "Bucket": 1.1226272499999999,
+        "Left_Child": {
+            "Feature": "Velocity X",
+            "Bucket": 0.50510277,
+            "Left_Child": {
+                "Value": [
+                    2.5833528,
+                    -0.34685993,
+                    -0.09445925,
+                    -1.9611051
+                ]
+            },
+            "Right_Child": {
+                "Value": [
+                    1.7336465,
+                    0.22641173,
+                    0.054429404,
+                    -0.8510185
+                ]
+            }
+        },
+        "Right_Child": {
+            "Value": [
+                2.738806,
+                -0.91258293,
+                1.3417807,
+                -0.68427414
+            ]
+        }
+    },
+    "Right_Child": {
+        "Feature": "Lidar Sensor 5",
+        "Bucket": 0.420302125,
+        "Left_Child": {
+            "Feature": "Hip Joint 2 Angle",
+            "Bucket": 1.1331782000000001,
+            "Left_Child": {
+                "Feature": "Knee Joint 1 Angle",
+                "Bucket": -0.409230585,
+                "Left_Child": {
+                    "Feature": "Knee Joint 1 Angle",
+                    "Bucket": -0.49198317,
+                    "Left_Child": {
+                        "Feature": "Lidar Sensor 5",
+                        "Bucket": 0.399288205,
+                        "Left_Child": {
+                            "Value": [
+                                -1.7856989,
+                                3.7247403,
+                                2.8564303,
+                                2.1380477
+                            ]
+                        },
+                        "Right_Child": {
+                            "Feature": "Knee Joint 1 Angle",
+                            "Bucket": -0.57272714,
+                            "Left_Child": {
+                                "Value": [
+                                    -1.4590781,
+                                    3.5821042,
+                                    0.76003873,
+                                    0.37548566
+                                ]
+                            },
+                            "Right_Child": {
+                                "Value": [
+                                    -0.7179855,
+                                    3.3122628,
+                                    0.49277282,
+                                    0.4401146
+                                ]
+                            }
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            -1.2789584,
+                            5.6925325,
+                            1.2238717,
+                            1.1923807
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Value": [
+                        -0.55693054,
+                        4.3893104,
+                        0.5222069,
+                        -0.2011897
+                    ]
+                }
+            },
+            "Right_Child": {
+                "Value": [
+                    -0.15772754,
+                    -0.7081771,
+                    1.2822928,
+                    0.9538483
+                ]
+            }
+        },
+        "Right_Child": {
+            "Value": [
+                -0.6520983,
+                -0.2789255,
+                1.0969622,
+                -0.67288357
+            ]
+        }
+    }
+}

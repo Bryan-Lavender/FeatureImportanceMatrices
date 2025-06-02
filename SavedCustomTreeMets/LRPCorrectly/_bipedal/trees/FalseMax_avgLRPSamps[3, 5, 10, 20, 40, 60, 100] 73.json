@@ -1,0 +1,92 @@
+{
+    "Feature": "Knee Joint 2 Speed",
+    "Bucket": 1.00019275,
+    "Left_Child": {
+        "Feature": "Lidar Sensor 9",
+        "Bucket": 0.81570908,
+        "Left_Child": {
+            "Value": [
+                -0.22796771,
+                2.682871,
+                2.1004248,
+                1.1108625
+            ]
+        },
+        "Right_Child": {
+            "Feature": "Lidar Sensor 8",
+            "Bucket": 0.7180631,
+            "Left_Child": {
+                "Feature": "Hip Joint 1 Speed",
+                "Bucket": 0.34134803,
+                "Left_Child": {
+                    "Feature": "Velocity X",
+                    "Bucket": 0.6572382999999999,
+                    "Left_Child": {
+                        "Feature": "Hip Joint 1 Speed",
+                        "Bucket": -0.71782502,
+                        "Left_Child": {
+                            "Value": [
+                                1.5403018,
+                                -1.5555185,
+                                0.61430347,
+                                -1.0704587
+                            ]
+                        },
+                        "Right_Child": {
+                            "Value": [
+                                1.6264524,
+                                -1.7169818,
+                                0.9917916,
+                                -0.52635944
+                            ]
+                        }
+                    },
+                    "Right_Child": {
+                        "Value": [
+                            1.2636518,
+                            -1.1433871,
+                            1.7664108,
+                            0.17908812
+                        ]
+                    }
+                },
+                "Right_Child": {
+                    "Value": [
+                        2.1093874333333336,
+                        0.028119630666666662,
+                        0.6876027323333332,
+                        -0.8480741466666667
+                    ]
+                }
+            },
+            "Right_Child": {
+                "Feature": "Leg 1 Ground Contact Flag",
+                "Bucket": 0.5,
+                "Left_Child": {
+                    "Value": [
+                        2.4724424,
+                        -1.2507207,
+                        1.4708887,
+                        -1.2664558
+                    ]
+                },
+                "Right_Child": {
+                    "Value": [
+                        2.4922945,
+                        -0.9960583,
+                        2.2566342,
+                        -1.0483959
+                    ]
+                }
+            }
+        }
+    },
+    "Right_Child": {
+        "Value": [
+            -1.7333133,
+            4.4823995,
+            1.5721626,
+            2.3403761
+        ]
+    }
+}

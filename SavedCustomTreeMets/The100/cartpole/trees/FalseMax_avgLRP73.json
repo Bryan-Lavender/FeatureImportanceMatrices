@@ -1,0 +1,66 @@
+{
+    "Feature": "angle_vel",
+    "Bucket": -0.0346662825,
+    "Left_Child": {
+        "Feature": "vel",
+        "Bucket": -0.33219285,
+        "Left_Child": {
+            "Feature": "angle",
+            "Bucket": 0.000533191635,
+            "Left_Child": {
+                "Value": 0
+            },
+            "Right_Child": {
+                "Feature": "x",
+                "Bucket": -0.5891794450000001,
+                "Left_Child": {
+                    "Value": 1
+                },
+                "Right_Child": {
+                    "Value": 0
+                }
+            }
+        },
+        "Right_Child": {
+            "Value": 0
+        }
+    },
+    "Right_Child": {
+        "Feature": "angle_vel",
+        "Bucket": 0.11523487,
+        "Left_Child": {
+            "Feature": "vel",
+            "Bucket": -0.390446535,
+            "Left_Child": {
+                "Feature": "x",
+                "Bucket": -1.06787238,
+                "Left_Child": {
+                    "Value": 1
+                },
+                "Right_Child": {
+                    "Value": 0
+                }
+            },
+            "Right_Child": {
+                "Feature": "angle_vel",
+                "Bucket": -0.017632782,
+                "Left_Child": {
+                    "Feature": "x",
+                    "Bucket": -0.14891069299999998,
+                    "Left_Child": {
+                        "Value": 0
+                    },
+                    "Right_Child": {
+                        "Value": 1
+                    }
+                },
+                "Right_Child": {
+                    "Value": 1
+                }
+            }
+        },
+        "Right_Child": {
+            "Value": 1
+        }
+    }
+}
